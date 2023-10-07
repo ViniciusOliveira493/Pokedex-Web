@@ -53,10 +53,15 @@ document.getElementById("list").addEventListener("click",function (element) {
     highlightPokemon(s[1]);
 });
 
-window.onload = init;
+window.onload = init();
 //-----------------------------------------
-function init() {    
+function init() {        
     getTrainers();
+    setTimeout(mensagemClique, 1500);
+}
+
+function mensagemClique() {
+    alert("Clique na pokédex para abrir");
 }
 
 async function getTrainers() {
