@@ -1,0 +1,392 @@
+:root{
+    --color-1:red;
+    --color-2:green;
+    --color-3:green;
+    --color-4:blue;
+
+    --button-hightlight:orange;
+    --pokemon-hightlight:orange;
+
+    --black:black;
+    --bg-image:url("../img/bg.webp");
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: var(--bg-image);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 10%;    
+}
+
+section{
+    background-color: red;
+    width: 20vw;
+    height: 73vh;
+    border-radius: 20px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    padding: 1em;
+    transition: all 1.5s;
+    padding-bottom: 2em;
+}
+
+#playerCard{
+    z-index: 1;
+}
+
+#displayImage{
+    border: 10px solid gray;
+    margin: auto;
+    height: 150px;
+    width: 150px;
+    margin-top: 10%;
+    background-color: white;
+}
+
+.image{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    transform: translateY(-5px);
+    z-index: 10;
+}
+
+#info{
+    background-color: white;
+    width: 85%;
+    height: 50%;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 1em;
+    padding-bottom: 2em;
+}
+
+#info > span{
+    display: block;
+    font-size: 1.5em;
+}
+
+#info .pokemonDesc{
+    height: 70%;
+    overflow: hidden;
+    overflow-y: auto;
+    margin-top: 5%;
+
+}
+
+#info .listTypes{
+    margin-top: 5%;
+}
+
+#info .typeItem{
+    display: inline;
+    height: 15px;
+    width: 100px;
+    border-radius: 20px;
+    border: 2px solid black;
+    padding: 5px 10px;
+    font-size: 1em;
+    font-weight: normal;
+    margin: 5px 5px;
+    text-transform: capitalize;
+}
+
+#info .typeItem > span{
+    text-transform: capitalize !important;
+}
+
+.badge{
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+
+#list{
+    background-color: white;
+    width: 90%;
+    height: 85%;
+    border-radius: 20px 0 0 20px;
+    margin: auto;
+    margin-top: 10px;
+    overflow-y: scroll;
+    padding: 5px;
+    scrollbar-width: 3px;
+    scrollbar-color: var(--color-4) rgba(128, 128, 128, 0.2);
+    padding: 10px;
+}
+
+#info > div > span{
+    display: block;
+    font-size: 1.5em;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.pknSubtitle{
+    font-size: 1em !important;
+    color: lightgray !important;    
+    text-indent: 1em;
+}
+
+#list::-webkit-scrollbar {
+    width: 3px;
+  }
+  
+#list::-webkit-scrollbar-track {
+    background: rgba(128, 128, 128, 0.2);    
+}
+
+#list::-webkit-scrollbar-thumb {
+    background-color: var(--color-2); 
+    border-radius: 20px;       
+    border: 3px solid var(--color-4);
+}
+
+.pokemonDesc::-webkit-scrollbar {
+    width: 3px;
+  }
+  
+.pokemonDesc::-webkit-scrollbar-track {
+    background: rgba(128, 128, 128, 0.2);    
+}
+
+.pokemonDesc::-webkit-scrollbar-thumb {
+    background-color: var(--color-2); 
+    border-radius: 20px;       
+    border: 3px solid var(--color-4);
+}
+
+.pokemonItem{
+    padding: 10px;
+    background-color: rgb(221, 221, 221);
+    margin-bottom: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.pokemonItem > span{
+    text-transform: capitalize;
+    pointer-events: none;
+}
+
+.pokemonItem:hover{
+    background-color: var(--pokemon-hightlight);
+}
+
+#prevAndNext{
+    color: white;
+    width: 90%;
+    height: 10%;    
+    margin: auto;
+    margin-top: 5px;
+    font-size: 1.4em;
+    padding-bottom: 0;
+    font-weight: bold;
+}
+
+.slideLeft{
+    transform: translate(-100%,-50%);
+}
+
+.slideRight{
+    transform: translate(0%,-50%);
+}
+
+button{
+    background-color: rgba(255, 255, 255, 0);
+    border: 0px solid rgba(255, 255, 255, 0);
+    color: white; 
+}
+
+button > span{
+    font-size: 3em !important;
+    transform: translateY(30%);       
+}
+
+button:hover {
+    color: var(--button-hightlight);
+    cursor: pointer;
+}
+
+abbr:hover{
+    cursor: help;
+}
+
+/* Types */
+.normal{
+    background-color: #aa9;
+    color: white;
+}
+
+.fire{
+    background-color: #f42;
+    color: white;
+}
+
+.water{
+    background-color: #39f;
+    color: white;
+}
+
+.grass{
+    background-color: #7c5;
+    color: white;
+}
+
+.electric{
+    background-color: #fc3;
+    color: white;
+}
+
+.ice{
+    background-color: #6cf;
+    color: white;
+}
+
+.fighting{
+    background-color: #b54;
+    color: white;
+}
+
+.poison{
+    background-color: #a59;
+    color: white;
+}
+
+.ground{
+    background-color: #db5;
+    color: white;
+}
+
+.flying{
+    background-color: #89f;
+    color: white;
+}
+
+.psychic{
+    background-color: #f59;
+    color: white;
+}
+
+.bug{
+    background-color: #ab2;
+    color: white;
+}
+
+.rock{
+    background-color: #ba6;
+    color: white;
+}
+
+.ghost{
+    background-color: #66b;
+    color: white;
+}
+
+.dragon{
+    background-color: #76e;
+    color: white;
+}
+
+.dark{
+    background-color: #754;
+    color: white;
+}
+
+.steel{
+    background-color: #aab;
+    color: white;
+}
+
+.fairy{
+    background-color: #e9e;
+    color: white;
+}
+
+@media (max-width:920px) {
+    section{
+        width: 85vw;
+        margin: auto;
+        margin-top: 10px;
+        border-radius: 20px;
+        position: relative;
+        left: 0%;
+        top: 0%;
+        transform: translate(0%,0%);
+        transition: none;
+    }
+
+    body{
+        padding-bottom: 40%;
+    }
+    #displayImage {
+        margin-top: 10px !important;
+    }
+
+    .slideLeft{
+        transform: translate(0%,0%);
+    }
+    
+    #pokemonList{
+        display: none;
+    }
+
+    .slideRight{
+        transform: translate(0%,0%);
+        display: block !important;
+    }
+
+    #prevAndNext{
+        padding: 0;
+        height: 5%;
+        margin-top: 5%;
+    }
+
+    #prevAndNext > span{
+        font-size: 1.5em;
+        padding: 5%;
+    }
+}
+
+@media (max-width:600px) {
+    section{
+        width: 85vw;
+        margin: auto;
+        margin-top: 10px;
+        border-radius: 20px;
+        position: relative;
+        left: 0%;
+        top: 0%;
+        transform: translate(0%,0%);
+        transition: none;
+    }
+
+    .slideLeft{
+        transform: translate(0%,0%);
+    }
+    
+    .slideRight{
+        transform: translate(0%,0%);
+    }
+
+    #prevAndNext{
+        padding: 0%;
+        margin-top: .1%;
+    }
+
+    #prevAndNext > span{
+        font-size: 1em;
+        padding: 0%;
+    }
+}
+
+@media (max-width:290px) {
+    #prevAndNext{
+        font-size: 1.2em;
+    }
+}

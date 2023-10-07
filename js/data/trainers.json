@@ -1,0 +1,125 @@
+{
+    "trainers":[
+        {
+            "name":"Red"
+            ,"sprite":"./img/trainers/bulbapedia/Red.png"
+            ,"pokedex":151
+            ,"id":"00001"
+            ,"badges":[
+                {
+                    "name":"Boulder Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/1.png"
+                }
+                ,{
+                    "name":"Cascade Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/2.png"
+                }
+                ,{
+                    "name":"Thunder Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/3.png"
+                }
+                ,{
+                    "name":"Rainbow Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/4.png"
+                }
+                ,{
+                    "name":"Soul Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/5.png"
+                }
+                ,{
+                    "name":"Marsh Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/6.png"
+                }
+                ,{
+                    "name":"Volcano Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/7.png"
+                }
+                ,{
+                    "name":"Earth Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/8.png"
+                }
+            ]
+        }
+        , {
+            "name":"Leaf"
+            ,"sprite":"./img/trainers/bulbapedia/Leaf.png"
+            ,"pokedex":151
+            ,"id":"00002"
+            ,"badges":[
+                {
+                    "name":"Boulder Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/1.png"
+                }
+                ,{
+                    "name":"Cascade Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/2.png"
+                }
+                ,{
+                    "name":"Thunder Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/3.png"
+                }
+                ,{
+                    "name":"Rainbow Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/4.png"
+                }
+                ,{
+                    "name":"Soul Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/5.png"
+                }
+                ,{
+                    "name":"Marsh Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/6.png"
+                }
+                ,{
+                    "name":"Volcano Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/7.png"
+                }
+                ,{
+                    "name":"Earth Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/8.png"
+                }
+            ]
+        }
+        , {
+            "name":"Blue"
+            ,"sprite":"./img/trainers/bulbapedia/Blue.png"
+            ,"pokedex":151
+            ,"id":"00003"
+            ,"badges":[
+                {
+                    "name":"Boulder Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/1.png"
+                }
+                ,{
+                    "name":"Cascade Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/2.png"
+                }
+                ,{
+                    "name":"Thunder Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/3.png"
+                }
+                ,{
+                    "name":"Rainbow Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/4.png"
+                }
+                ,{
+                    "name":"Soul Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/5.png"
+                }
+                ,{
+                    "name":"Marsh Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/6.png"
+                }
+                ,{
+                    "name":"Volcano Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/7.png"
+                }
+                ,{
+                    "name":"Earth Badge"
+                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/8.png"
+                }
+            ]
+        }
+        
+    ]
+}
