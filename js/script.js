@@ -84,22 +84,24 @@ function loadTrainer(trainer) {
 
     image.setAttribute("src",trainer.sprite);
     image.setAttribute("class","image");
-    image.setAttribute("alt","trainer image");
+    image.setAttribute("alt",trainer.name);
 
     imageDiv.innerHTML = "";
     imageDiv.appendChild(image);
 
     let info = document.getElementById("info");
     info.innerHTML = "";
+    info.classList.add("trainerInfo");
 
     let tId = document.createElement("span");
-    tId.innerHTML = "ID: "+trainer.id;
+    tId.textContent = "ID: "+trainer.id;
 
     let tName = document.createElement("span");
-    tName.innerHTML = "Name: "+trainer.name;
+    tName.textContent = "Nome: "+trainer.name;
 
     let tDex = document.createElement("span");
-    tDex.innerHTML = "Pokédex: "+trainer.pokedex;
+    tDex.textContent = "Pokédex: "+trainer.pokedex+" espécies";
+    tDex.title = "Espécies obteníveis no grupo de jogos de origem, incluindo eventos oficiais e trocas entre suas versões.";
 
 
 
@@ -108,25 +110,29 @@ function loadTrainer(trainer) {
     info.appendChild(tDex);
 
     let tbadges = document.createElement("div");
-    let lblbadge = document.createElement("h1");
-    lblbadge.innerHTML = "Badges"
+    tbadges.className = "trainerAchievements";
+    let lblbadge = document.createElement("h2");
+    lblbadge.className = "trainerProgressTitle";
+    lblbadge.textContent = trainer.badgesLabel || "Insígnias";
 
     tbadges.appendChild(lblbadge);
 
-    let listbadges = document.createElement("div");
-    listbadges.setAttribute("class","badgeList")
+    let listbadges = document.createElement("ul");
+    listbadges.className = "badgeList";
     trainer.badges.forEach(element => {
-        let descBadges = document.createElement("abbr");
-        descBadges.setAttribute("title",element.name);
-
-        let tbadges = document.createElement("div");
-        let badge = document.createElement("img");
-        badge.setAttribute("src",element.sprite);
-        badge.setAttribute("class","badge");
-        badge.setAttribute("alt","trainer badge");
-
-        descBadges.appendChild(badge);
-        listbadges.appendChild(descBadges);
+        let item = document.createElement("li");
+        if (element.sprite) {
+            let badge = document.createElement("img");
+            badge.src = element.sprite;
+            badge.className = "badge";
+            badge.alt = element.name;
+            badge.title = element.name;
+            item.appendChild(badge);
+        } else {
+            item.className = "badgeText";
+            item.textContent = element.name;
+        }
+        listbadges.appendChild(item);
     });
 
     tbadges.appendChild(listbadges);
@@ -136,6 +142,7 @@ function loadTrainer(trainer) {
 async function loadPokemons(gen){
     let imageDiv = document.getElementById("displayImage");
     let info = document.getElementById("info");
+    info.classList.remove("trainerInfo");
 
     imageDiv.innerHTML = "";
     info.innerHTML = "";
@@ -199,6 +206,7 @@ async function highlightPokemon(pokemonId){
 
 function loadInfo(pokemon) {
     let info = document.getElementById("info");
+    info.classList.remove("trainerInfo");
     info.innerHTML = "";
     let div = document.createElement("div");
 

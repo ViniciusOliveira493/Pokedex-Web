@@ -1,0 +1,510 @@
+{
+  "Red": {
+    "sprite": "./img/trainers/bulbapedia/Red.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Red_(game)",
+    "note": "Imagem existente no projeto, preservada sem alterações."
+  },
+  "Leaf": {
+    "sprite": "./img/trainers/bulbapedia/Leaf.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Leaf",
+    "note": "Imagem existente no projeto, preservada sem alterações."
+  },
+  "Blue": {
+    "sprite": "./img/trainers/bulbapedia/Blue.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Blue_(game)",
+    "note": "Imagem existente no projeto, preservada sem alterações."
+  },
+  "Ethan": {
+    "sprite": "./img/trainers/bulbapedia/Ethan.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Ethan_(game)",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/crystal/ethan.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 56,
+    "height": 56,
+    "type": "Official game trainer sprite",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Kris": {
+    "sprite": "./img/trainers/bulbapedia/Kris.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Kris",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/crystal/kris.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 56,
+    "height": 56,
+    "type": "Official game trainer sprite",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Lyra": {
+    "sprite": "./img/trainers/bulbapedia/Lyra.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Lyra",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/heart_gold_soul_silver/lyra.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 80,
+    "height": 80,
+    "type": "Official game trainer sprite",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Brendan": {
+    "sprite": "./img/trainers/bulbapedia/Brendan.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Brendan",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/emerald/brendan.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 64,
+    "height": 64,
+    "type": "Official game trainer sprite",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Silver": {
+    "sprite": "./img/trainers/bulbapedia/Silver.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Silver_(game)",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/gold_silver/silver_1.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 56,
+    "height": 56,
+    "type": "Official game trainer sprite",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "May": {
+    "sprite": "./img/trainers/bulbapedia/May.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/May",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/emerald/may.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 64,
+    "height": 64,
+    "type": "Official game trainer sprite",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Lucas": {
+    "sprite": "./img/trainers/bulbapedia/Lucas.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Lucas_(game)",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/platinum/lucas.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 80,
+    "height": 80,
+    "type": "Official game trainer sprite",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Hilbert": {
+    "sprite": "./img/trainers/bulbapedia/Hilbert.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Hilbert",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/black_white/hilbert.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 80,
+    "height": 80,
+    "type": "Official game trainer sprite",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Dawn": {
+    "sprite": "./img/trainers/bulbapedia/Dawn.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Dawn",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/platinum/dawn.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 80,
+    "height": 80,
+    "type": "Official game trainer sprite",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Wally": {
+    "sprite": "./img/trainers/bulbapedia/Wally.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Wally",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/ruby_sapphire/wally.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 64,
+    "height": 64,
+    "type": "Official game trainer sprite",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Hilda": {
+    "sprite": "./img/trainers/bulbapedia/Hilda.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Hilda",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/black_white/hilda.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 80,
+    "height": 80,
+    "type": "Official game trainer sprite",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Barry": {
+    "sprite": "./img/trainers/bulbapedia/Barry.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Barry_(game)",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/diamond_pearl/barry.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 80,
+    "height": 80,
+    "type": "Official game trainer sprite",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Rosa": {
+    "sprite": "./img/trainers/bulbapedia/Rosa.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Rosa",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/rosa.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Nate": {
+    "sprite": "./img/trainers/bulbapedia/Nate.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Nate",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/nate.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Cheren": {
+    "sprite": "./img/trainers/bulbapedia/Cheren.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Cheren",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/cheren.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "N": {
+    "sprite": "./img/trainers/bulbapedia/N.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/N_(game)",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/n.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Bianca": {
+    "sprite": "./img/trainers/bulbapedia/Bianca.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Bianca",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/bianca.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Hugh": {
+    "sprite": "./img/trainers/bulbapedia/Hugh.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Hugh",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/hugh.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Calem": {
+    "sprite": "./img/trainers/bulbapedia/Calem.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Calem",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/calem.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Shauna": {
+    "sprite": "./img/trainers/bulbapedia/Shauna.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Shauna",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/shauna.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Serena": {
+    "sprite": "./img/trainers/bulbapedia/Serena.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Serena",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/serena.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Trevor": {
+    "sprite": "./img/trainers/bulbapedia/Trevor.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Trevor",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/trevor.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Tierno": {
+    "sprite": "./img/trainers/bulbapedia/Tierno.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Tierno",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/tierno.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Elio": {
+    "sprite": "./img/trainers/bulbapedia/Elio.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Elio",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/elio.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Selene": {
+    "sprite": "./img/trainers/bulbapedia/Selene.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Selene",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/selene.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Hau": {
+    "sprite": "./img/trainers/bulbapedia/Hau.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Hau",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/hau.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Gladion": {
+    "sprite": "./img/trainers/bulbapedia/Gladion.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Gladion",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/gladion.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Elaine": {
+    "sprite": "./img/trainers/bulbapedia/Elaine.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Elaine_(game)",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/elaine.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Victor": {
+    "sprite": "./img/trainers/bulbapedia/Victor.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Victor_(game)",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/victor.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Chase": {
+    "sprite": "./img/trainers/bulbapedia/Chase.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Chase_(game)",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/chase.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Gloria": {
+    "sprite": "./img/trainers/bulbapedia/Gloria.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Gloria_(game)",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/gloria.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Hop": {
+    "sprite": "./img/trainers/bulbapedia/Hop.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Hop",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/hop.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Bede": {
+    "sprite": "./img/trainers/bulbapedia/Bede.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Bede",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/bede.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Marnie": {
+    "sprite": "./img/trainers/bulbapedia/Marnie.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Marnie",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/marnie.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Klara": {
+    "sprite": "./img/trainers/bulbapedia/Klara.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Klara",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/klara.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Avery": {
+    "sprite": "./img/trainers/bulbapedia/Avery.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Avery",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/avery.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Rei": {
+    "sprite": "./img/trainers/bulbapedia/Rei.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Rei_(game)",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/rei.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Akari": {
+    "sprite": "./img/trainers/bulbapedia/Akari.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Akari_(game)",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/akari.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Florian": {
+    "sprite": "./img/trainers/bulbapedia/Florian.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Florian_(game)",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/florian.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Juliana": {
+    "sprite": "./img/trainers/bulbapedia/Juliana.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Juliana_(game)",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/juliana.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Nemona": {
+    "sprite": "./img/trainers/bulbapedia/Nemona.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Nemona",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/nemona.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Arven": {
+    "sprite": "./img/trainers/bulbapedia/Arven.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Arven",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/arven.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Penny": {
+    "sprite": "./img/trainers/bulbapedia/Penny.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Penny",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/penny.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Carmine": {
+    "sprite": "./img/trainers/bulbapedia/Carmine.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Carmine",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/carmine.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Kieran": {
+    "sprite": "./img/trainers/bulbapedia/Kieran.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Kieran",
+    "downloadedUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/kieran.png",
+    "attribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md",
+    "width": 1024,
+    "height": 1024,
+    "type": "Official Pokémon Masters EX render",
+    "note": "Bulbapedia indisponível por HTTP 403; utilizada cópia do catálogo trainercards.studio, que atribui suas imagens de treinadores à Bulbapedia."
+  },
+  "Paxton": {
+    "sprite": "./img/trainers/bulbapedia/Paxton.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Paxton_(game)",
+    "fallbackPage": "https://www.pokepedia.fr/Paxton",
+    "downloadedUrl": "https://www.pokepedia.fr/images/thumb/0/03/Paxton-LPZA.png/400px-Paxton-LPZA.png",
+    "originalUrl": "https://www.pokepedia.fr/images/0/03/Paxton-LPZA.png",
+    "type": "Official artwork from Pokémon Legends: Z-A",
+    "note": "Bulbapedia/Bulbagarden Archives retornaram HTTP 403. Utilizada a mesma arte oficial disponibilizada na Poképédia."
+  },
+  "Harmony": {
+    "sprite": "./img/trainers/bulbapedia/Harmony.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Harmony_(game)",
+    "fallbackPage": "https://www.pokepedia.fr/Harmony",
+    "downloadedUrl": "https://www.pokepedia.fr/images/thumb/6/63/Harmony-LPZA.png/400px-Harmony-LPZA.png",
+    "originalUrl": "https://www.pokepedia.fr/images/6/63/Harmony-LPZA.png",
+    "type": "Official artwork from Pokémon Legends: Z-A",
+    "note": "Bulbapedia/Bulbagarden Archives retornaram HTTP 403. Utilizada a mesma arte oficial disponibilizada na Poképédia."
+  },
+  "Urbain": {
+    "sprite": "./img/trainers/bulbapedia/Urbain.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Urbain",
+    "fallbackPage": "https://www.pokepedia.fr/Boro",
+    "downloadedUrl": "https://www.pokepedia.fr/images/thumb/a/ab/Boro-LPZA.png/400px-Boro-LPZA.png",
+    "originalUrl": "https://www.pokepedia.fr/images/a/ab/Boro-LPZA.png",
+    "type": "Official artwork from Pokémon Legends: Z-A",
+    "note": "Bulbapedia/Bulbagarden Archives retornaram HTTP 403. Utilizada a mesma arte oficial disponibilizada na Poképédia."
+  },
+  "Taunie": {
+    "sprite": "./img/trainers/bulbapedia/Taunie.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Taunie",
+    "fallbackPage": "https://www.pokepedia.fr/Cety",
+    "downloadedUrl": "https://www.pokepedia.fr/images/thumb/c/c5/Cety-LPZA.png/400px-Cety-LPZA.png",
+    "originalUrl": "https://www.pokepedia.fr/images/c/c5/Cety-LPZA.png",
+    "type": "Official artwork from Pokémon Legends: Z-A",
+    "note": "Bulbapedia/Bulbagarden Archives retornaram HTTP 403. Utilizada a mesma arte oficial disponibilizada na Poképédia."
+  },
+  "Trace": {
+    "sprite": "./img/trainers/bulbapedia/Trace.png",
+    "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Trace_(game)",
+    "fallbackPage": "https://www.pokepedia.fr/Trace",
+    "imageUrl": "https://www.pokepedia.fr/images/a/a2/Trace-LGPE.png",
+    "note": "Arte oficial de Pokémon Let’s Go, obtida da Poképédia após bloqueio HTTP 403 da Bulbapedia."
+  }
+}

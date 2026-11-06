@@ -1,0 +1,497 @@
+{
+  "kanto": {
+    "label": "Insígnias",
+    "items": [
+      {
+        "name": "Boulder Badge",
+        "sprite": "./img/badges/1.png"
+      },
+      {
+        "name": "Cascade Badge",
+        "sprite": "./img/badges/2.png"
+      },
+      {
+        "name": "Thunder Badge",
+        "sprite": "./img/badges/3.png"
+      },
+      {
+        "name": "Rainbow Badge",
+        "sprite": "./img/badges/4.png"
+      },
+      {
+        "name": "Soul Badge",
+        "sprite": "./img/badges/5.png"
+      },
+      {
+        "name": "Marsh Badge",
+        "sprite": "./img/badges/6.png"
+      },
+      {
+        "name": "Volcano Badge",
+        "sprite": "./img/badges/7.png"
+      },
+      {
+        "name": "Earth Badge",
+        "sprite": "./img/badges/8.png"
+      }
+    ],
+    "note": null
+  },
+  "johto": {
+    "label": "Insígnias",
+    "items": [
+      {
+        "name": "Zephyr Badge",
+        "sprite": "./img/badges/9.png"
+      },
+      {
+        "name": "Hive Badge",
+        "sprite": "./img/badges/10.png"
+      },
+      {
+        "name": "Plain Badge",
+        "sprite": "./img/badges/11.png"
+      },
+      {
+        "name": "Fog Badge",
+        "sprite": "./img/badges/12.png"
+      },
+      {
+        "name": "Storm Badge",
+        "sprite": "./img/badges/13.png"
+      },
+      {
+        "name": "Mineral Badge",
+        "sprite": "./img/badges/14.png"
+      },
+      {
+        "name": "Glacier Badge",
+        "sprite": "./img/badges/15.png"
+      },
+      {
+        "name": "Rising Badge",
+        "sprite": "./img/badges/16.png"
+      },
+      {
+        "name": "Boulder Badge",
+        "sprite": "./img/badges/1.png"
+      },
+      {
+        "name": "Cascade Badge",
+        "sprite": "./img/badges/2.png"
+      },
+      {
+        "name": "Thunder Badge",
+        "sprite": "./img/badges/3.png"
+      },
+      {
+        "name": "Rainbow Badge",
+        "sprite": "./img/badges/4.png"
+      },
+      {
+        "name": "Soul Badge",
+        "sprite": "./img/badges/5.png"
+      },
+      {
+        "name": "Marsh Badge",
+        "sprite": "./img/badges/6.png"
+      },
+      {
+        "name": "Volcano Badge",
+        "sprite": "./img/badges/7.png"
+      },
+      {
+        "name": "Earth Badge",
+        "sprite": "./img/badges/8.png"
+      }
+    ],
+    "note": null
+  },
+  "hoenn": {
+    "label": "Insígnias",
+    "items": [
+      {
+        "name": "Stone Badge",
+        "sprite": "./img/badges/17.png"
+      },
+      {
+        "name": "Knuckle Badge",
+        "sprite": "./img/badges/18.png"
+      },
+      {
+        "name": "Dynamo Badge",
+        "sprite": "./img/badges/19.png"
+      },
+      {
+        "name": "Heat Badge",
+        "sprite": "./img/badges/20.png"
+      },
+      {
+        "name": "Balance Badge",
+        "sprite": "./img/badges/21.png"
+      },
+      {
+        "name": "Feather Badge",
+        "sprite": "./img/badges/22.png"
+      },
+      {
+        "name": "Mind Badge",
+        "sprite": "./img/badges/23.png"
+      },
+      {
+        "name": "Rain Badge",
+        "sprite": "./img/badges/24.png"
+      }
+    ],
+    "note": null
+  },
+  "sinnoh": {
+    "label": "Insígnias",
+    "items": [
+      {
+        "name": "Coal Badge",
+        "sprite": "./img/badges/25.png"
+      },
+      {
+        "name": "Forest Badge",
+        "sprite": "./img/badges/26.png"
+      },
+      {
+        "name": "Relic Badge",
+        "sprite": "./img/badges/29.png"
+      },
+      {
+        "name": "Cobble Badge",
+        "sprite": "./img/badges/27.png"
+      },
+      {
+        "name": "Fen Badge",
+        "sprite": "./img/badges/28.png"
+      },
+      {
+        "name": "Mine Badge",
+        "sprite": "./img/badges/30.png"
+      },
+      {
+        "name": "Icicle Badge",
+        "sprite": "./img/badges/31.png"
+      },
+      {
+        "name": "Beacon Badge",
+        "sprite": "./img/badges/32.png"
+      }
+    ],
+    "note": null
+  },
+  "unova": {
+    "label": "Insígnias",
+    "items": [
+      {
+        "name": "Trio Badge",
+        "sprite": "./img/badges/33.png"
+      },
+      {
+        "name": "Basic Badge",
+        "sprite": "./img/badges/34.png"
+      },
+      {
+        "name": "Insect Badge",
+        "sprite": "./img/badges/35.png"
+      },
+      {
+        "name": "Bolt Badge",
+        "sprite": "./img/badges/36.png"
+      },
+      {
+        "name": "Quake Badge",
+        "sprite": "./img/badges/37.png"
+      },
+      {
+        "name": "Jet Badge",
+        "sprite": "./img/badges/38.png"
+      },
+      {
+        "name": "Freeze Badge",
+        "sprite": "./img/badges/39.png"
+      },
+      {
+        "name": "Legend Badge",
+        "sprite": "./img/badges/40.png"
+      }
+    ],
+    "note": null
+  },
+  "unovaSequels": {
+    "label": "Insígnias",
+    "items": [
+      {
+        "name": "Basic Badge",
+        "sprite": "./img/badges/34.png"
+      },
+      {
+        "name": "Toxic Badge",
+        "sprite": "./img/badges/41.png"
+      },
+      {
+        "name": "Insect Badge",
+        "sprite": "./img/badges/35.png"
+      },
+      {
+        "name": "Bolt Badge",
+        "sprite": "./img/badges/36.png"
+      },
+      {
+        "name": "Quake Badge",
+        "sprite": "./img/badges/37.png"
+      },
+      {
+        "name": "Jet Badge",
+        "sprite": "./img/badges/38.png"
+      },
+      {
+        "name": "Legend Badge",
+        "sprite": "./img/badges/40.png"
+      },
+      {
+        "name": "Wave Badge",
+        "sprite": "./img/badges/42.png"
+      }
+    ],
+    "note": null
+  },
+  "kalos": {
+    "label": "Insígnias",
+    "items": [
+      {
+        "name": "Bug Badge",
+        "sprite": "./img/badges/43.png"
+      },
+      {
+        "name": "Cliff Badge",
+        "sprite": "./img/badges/44.png"
+      },
+      {
+        "name": "Rumble Badge",
+        "sprite": "./img/badges/45.png"
+      },
+      {
+        "name": "Plant Badge",
+        "sprite": "./img/badges/46.png"
+      },
+      {
+        "name": "Voltage Badge",
+        "sprite": "./img/badges/47.png"
+      },
+      {
+        "name": "Fairy Badge",
+        "sprite": "./img/badges/48.png"
+      },
+      {
+        "name": "Psychic Badge",
+        "sprite": "./img/badges/49.png"
+      },
+      {
+        "name": "Iceberg Badge",
+        "sprite": "./img/badges/50.png"
+      }
+    ],
+    "note": null
+  },
+  "galarSword": {
+    "label": "Insígnias",
+    "items": [
+      {
+        "name": "Grass Badge",
+        "sprite": "./img/badges/51.png"
+      },
+      {
+        "name": "Water Badge",
+        "sprite": "./img/badges/52.png"
+      },
+      {
+        "name": "Fire Badge",
+        "sprite": "./img/badges/53.png"
+      },
+      {
+        "name": "Fighting Badge",
+        "sprite": "./img/badges/54.png"
+      },
+      {
+        "name": "Fairy Badge",
+        "sprite": "./img/badges/56.png"
+      },
+      {
+        "name": "Rock Badge",
+        "sprite": "./img/badges/57.png"
+      },
+      {
+        "name": "Dark Badge",
+        "sprite": "./img/badges/59.png"
+      },
+      {
+        "name": "Dragon Badge",
+        "sprite": "./img/badges/60.png"
+      }
+    ],
+    "note": "Conjunto de referência de Pokémon Sword."
+  },
+  "galarShield": {
+    "label": "Insígnias",
+    "items": [
+      {
+        "name": "Grass Badge",
+        "sprite": "./img/badges/51.png"
+      },
+      {
+        "name": "Water Badge",
+        "sprite": "./img/badges/52.png"
+      },
+      {
+        "name": "Fire Badge",
+        "sprite": "./img/badges/53.png"
+      },
+      {
+        "name": "Ghost Badge",
+        "sprite": "./img/badges/55.png"
+      },
+      {
+        "name": "Fairy Badge",
+        "sprite": "./img/badges/56.png"
+      },
+      {
+        "name": "Ice Badge",
+        "sprite": "./img/badges/58.png"
+      },
+      {
+        "name": "Dark Badge",
+        "sprite": "./img/badges/59.png"
+      },
+      {
+        "name": "Dragon Badge",
+        "sprite": "./img/badges/60.png"
+      }
+    ],
+    "note": "Conjunto de referência de Pokémon Shield."
+  },
+  "paldea": {
+    "label": "Insígnias",
+    "items": [
+      {
+        "name": "Bug Badge (Victory Road)",
+        "sprite": "./img/badges/paldea-bug.png"
+      },
+      {
+        "name": "Grass Badge (Victory Road)",
+        "sprite": "./img/badges/paldea-grass.png"
+      },
+      {
+        "name": "Electric Badge (Victory Road)",
+        "sprite": "./img/badges/paldea-electric.png"
+      },
+      {
+        "name": "Water Badge (Victory Road)",
+        "sprite": "./img/badges/paldea-water.png"
+      },
+      {
+        "name": "Normal Badge (Victory Road)",
+        "sprite": "./img/badges/paldea-normal.png"
+      },
+      {
+        "name": "Ghost Badge (Victory Road)",
+        "sprite": "./img/badges/paldea-ghost.png"
+      },
+      {
+        "name": "Psychic Badge (Victory Road)",
+        "sprite": "./img/badges/paldea-psychic.png"
+      },
+      {
+        "name": "Ice Badge (Victory Road)",
+        "sprite": "./img/badges/paldea-ice.png"
+      },
+      {
+        "name": "Titan Badge (rock)",
+        "sprite": "./img/badges/paldea-rock.png"
+      },
+      {
+        "name": "Titan Badge (flying)",
+        "sprite": "./img/badges/paldea-flying.png"
+      },
+      {
+        "name": "Titan Badge (steel)",
+        "sprite": "./img/badges/paldea-steel.png"
+      },
+      {
+        "name": "Titan Badge (ground)",
+        "sprite": "./img/badges/paldea-ground.png"
+      },
+      {
+        "name": "Titan Badge (dragon)",
+        "sprite": "./img/badges/paldea-dragon.png"
+      },
+      {
+        "name": "Star Badge (dark)",
+        "sprite": "./img/badges/paldea-dark.png"
+      },
+      {
+        "name": "Star Badge (fire)",
+        "sprite": "./img/badges/paldea-fire.png"
+      },
+      {
+        "name": "Star Badge (poison)",
+        "sprite": "./img/badges/paldea-poison.png"
+      },
+      {
+        "name": "Star Badge (fairy)",
+        "sprite": "./img/badges/paldea-fairy.png"
+      },
+      {
+        "name": "Star Badge (fighting)",
+        "sprite": "./img/badges/paldea-fighting.png"
+      }
+    ],
+    "note": "Oito insígnias de ginásios, cinco de Titãs e cinco da Team Star."
+  },
+  "alola": {
+    "label": "Cristais Z",
+    "items": [
+      {
+        "name": "Fightinium Z — Melemele",
+        "sprite": "./img/badges/fightinium-z.png"
+      },
+      {
+        "name": "Rockium Z — Akala",
+        "sprite": "./img/badges/rockium-z.png"
+      },
+      {
+        "name": "Darkinium Z — Ula’ula",
+        "sprite": "./img/badges/darkinium-z.png"
+      },
+      {
+        "name": "Groundium Z — Poni",
+        "sprite": "./img/badges/groundium-z.png"
+      }
+    ],
+    "note": "Recompensas das quatro Grandes Provas de Alola."
+  },
+  "hisui": {
+    "label": "Patente",
+    "items": [
+      {
+        "name": "Décima estrela (Full Star)"
+      }
+    ],
+    "note": "Patente máxima da Equipe de Pesquisa Galaxy."
+  },
+  "lumiose": {
+    "label": "Classificação",
+    "items": [
+      {
+        "name": "Rank A (história principal)"
+      },
+      {
+        "name": "Rank ∞ (pós-jogo)"
+      }
+    ],
+    "note": "Progressão do Z-A Royale e do Infinite Z-A Royale."
+  }
+}

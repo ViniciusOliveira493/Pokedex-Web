@@ -1,0 +1,529 @@
+{
+  "checkedOn": "2026-11-05",
+  "notes": [
+    "Bulbapedia e Bulbagarden Archives bloquearam o download direto com HTTP 403; os arquivos foram obtidos de repositórios públicos com proveniência documentada.",
+    "As imagens de Pokémon pertencem aos respectivos titulares; não são abrangidas pelas licenças de código dos repositórios."
+  ],
+  "references": [
+    "https://bulbapedia.bulbagarden.net/wiki/Badge",
+    "https://bulbapedia.bulbagarden.net/wiki/Island_challenge",
+    "https://github.com/PokeAPI/sprites",
+    "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+  ],
+  "images": [
+    {
+      "name": "Boulder Badge",
+      "path": "./img/badges/1.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/1.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Cascade Badge",
+      "path": "./img/badges/2.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/2.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Thunder Badge",
+      "path": "./img/badges/3.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/3.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Rainbow Badge",
+      "path": "./img/badges/4.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/4.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Soul Badge",
+      "path": "./img/badges/5.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/5.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Marsh Badge",
+      "path": "./img/badges/6.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/6.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Volcano Badge",
+      "path": "./img/badges/7.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/7.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Earth Badge",
+      "path": "./img/badges/8.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/8.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Zephyr Badge",
+      "path": "./img/badges/9.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/9.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Hive Badge",
+      "path": "./img/badges/10.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/10.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Plain Badge",
+      "path": "./img/badges/11.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/11.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Fog Badge",
+      "path": "./img/badges/12.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/12.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Storm Badge",
+      "path": "./img/badges/13.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/13.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Mineral Badge",
+      "path": "./img/badges/14.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/14.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Glacier Badge",
+      "path": "./img/badges/15.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/15.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Rising Badge",
+      "path": "./img/badges/16.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/16.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Stone Badge",
+      "path": "./img/badges/17.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/17.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Knuckle Badge",
+      "path": "./img/badges/18.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/18.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Dynamo Badge",
+      "path": "./img/badges/19.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/19.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Heat Badge",
+      "path": "./img/badges/20.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/20.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Balance Badge",
+      "path": "./img/badges/21.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/21.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Feather Badge",
+      "path": "./img/badges/22.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/22.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Mind Badge",
+      "path": "./img/badges/23.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/23.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Rain Badge",
+      "path": "./img/badges/24.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/24.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Coal Badge",
+      "path": "./img/badges/25.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/25.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Forest Badge",
+      "path": "./img/badges/26.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/26.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Cobble Badge",
+      "path": "./img/badges/27.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/27.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Fen Badge",
+      "path": "./img/badges/28.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/28.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Relic Badge",
+      "path": "./img/badges/29.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/29.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Mine Badge",
+      "path": "./img/badges/30.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/30.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Icicle Badge",
+      "path": "./img/badges/31.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/31.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Beacon Badge",
+      "path": "./img/badges/32.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/32.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Trio Badge",
+      "path": "./img/badges/33.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/33.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Basic Badge",
+      "path": "./img/badges/34.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/34.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Insect Badge",
+      "path": "./img/badges/35.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/35.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Bolt Badge",
+      "path": "./img/badges/36.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/36.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Quake Badge",
+      "path": "./img/badges/37.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/37.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Jet Badge",
+      "path": "./img/badges/38.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/38.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Freeze Badge",
+      "path": "./img/badges/39.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/39.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Legend Badge",
+      "path": "./img/badges/40.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/40.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Toxic Badge",
+      "path": "./img/badges/41.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/41.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Wave Badge",
+      "path": "./img/badges/42.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/42.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Bug Badge",
+      "path": "./img/badges/43.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/43.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Cliff Badge",
+      "path": "./img/badges/44.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/44.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Rumble Badge",
+      "path": "./img/badges/45.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/45.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Plant Badge",
+      "path": "./img/badges/46.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/46.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Voltage Badge",
+      "path": "./img/badges/47.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/47.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Fairy Badge",
+      "path": "./img/badges/48.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/48.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Psychic Badge",
+      "path": "./img/badges/49.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/49.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Iceberg Badge",
+      "path": "./img/badges/50.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/50.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Grass Badge",
+      "path": "./img/badges/51.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/51.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Water Badge",
+      "path": "./img/badges/52.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/52.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Fire Badge",
+      "path": "./img/badges/53.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/53.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Fighting Badge",
+      "path": "./img/badges/54.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/54.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Ghost Badge",
+      "path": "./img/badges/55.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/55.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Fairy Badge",
+      "path": "./img/badges/56.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/56.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Rock Badge",
+      "path": "./img/badges/57.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/57.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Ice Badge",
+      "path": "./img/badges/58.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/58.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Dark Badge",
+      "path": "./img/badges/59.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/59.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Dragon Badge",
+      "path": "./img/badges/60.png",
+      "downloadUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/60.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge"
+    },
+    {
+      "name": "Bug Badge (Victory Road)",
+      "path": "./img/badges/paldea-bug.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/bug.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Grass Badge (Victory Road)",
+      "path": "./img/badges/paldea-grass.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/grass.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Electric Badge (Victory Road)",
+      "path": "./img/badges/paldea-electric.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/electric.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Water Badge (Victory Road)",
+      "path": "./img/badges/paldea-water.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/water.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Normal Badge (Victory Road)",
+      "path": "./img/badges/paldea-normal.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/normal.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Ghost Badge (Victory Road)",
+      "path": "./img/badges/paldea-ghost.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/ghost.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Psychic Badge (Victory Road)",
+      "path": "./img/badges/paldea-psychic.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/psychic.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Ice Badge (Victory Road)",
+      "path": "./img/badges/paldea-ice.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/ice.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Titan Badge (rock)",
+      "path": "./img/badges/paldea-rock.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/rock.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Titan Badge (flying)",
+      "path": "./img/badges/paldea-flying.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/flying.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Titan Badge (steel)",
+      "path": "./img/badges/paldea-steel.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/steel.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Titan Badge (ground)",
+      "path": "./img/badges/paldea-ground.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/ground.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Titan Badge (dragon)",
+      "path": "./img/badges/paldea-dragon.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/dragon.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Star Badge (dark)",
+      "path": "./img/badges/paldea-dark.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/dark.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Star Badge (fire)",
+      "path": "./img/badges/paldea-fire.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/fire.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Star Badge (poison)",
+      "path": "./img/badges/paldea-poison.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/poison.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Star Badge (fairy)",
+      "path": "./img/badges/paldea-fairy.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/fairy.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Star Badge (fighting)",
+      "path": "./img/badges/paldea-fighting.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/paldea/fighting.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Badge",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Fightinium Z — Melemele",
+      "path": "./img/badges/fightinium-z.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/alola/fightinium_sprite.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Z-Crystal",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Rockium Z — Akala",
+      "path": "./img/badges/rockium-z.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/alola/rockium_sprite.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Z-Crystal",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Darkinium Z — Ula’ula",
+      "path": "./img/badges/darkinium-z.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/alola/darkinium_sprite.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Z-Crystal",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    },
+    {
+      "name": "Groundium Z — Poni",
+      "path": "./img/badges/groundium-z.png",
+      "downloadUrl": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/badges/alola/groundium_sprite.png",
+      "sourcePage": "https://bulbapedia.bulbagarden.net/wiki/Groundium_Z",
+      "mirrorAttribution": "https://github.com/jonbarrow/trainercards.studio/blob/master/content/ATTRIBUTIONS.md"
+    }
+  ]
+}

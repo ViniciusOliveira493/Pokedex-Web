@@ -1,125 +1,2692 @@
 {
-    "trainers":[
+    "trainers": [
         {
-            "name":"Red"
-            ,"sprite":"./img/trainers/bulbapedia/Red.png"
-            ,"pokedex":151
-            ,"id":"00001"
-            ,"badges":[
+            "name": "Red",
+            "sprite": "./img/trainers/bulbapedia/Red.png",
+            "pokedex": 151,
+            "id": "00001",
+            "originGames": [
+                "red",
+                "green",
+                "blue-jp",
+                "yellow"
+            ],
+            "gameGroup": "kanto",
+            "badgesLabel": "Insígnias",
+            "badges": [
                 {
-                    "name":"Boulder Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/1.png"
-                }
-                ,{
-                    "name":"Cascade Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/2.png"
-                }
-                ,{
-                    "name":"Thunder Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/3.png"
-                }
-                ,{
-                    "name":"Rainbow Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/4.png"
-                }
-                ,{
-                    "name":"Soul Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/5.png"
-                }
-                ,{
-                    "name":"Marsh Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/6.png"
-                }
-                ,{
-                    "name":"Volcano Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/7.png"
-                }
-                ,{
-                    "name":"Earth Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/8.png"
-                }
-            ]
-        }
-        , {
-            "name":"Leaf"
-            ,"sprite":"./img/trainers/bulbapedia/Leaf.png"
-            ,"pokedex":151
-            ,"id":"00002"
-            ,"badges":[
+                    "name": "Boulder Badge",
+                    "sprite": "./img/badges/1.png"
+                },
                 {
-                    "name":"Boulder Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/1.png"
-                }
-                ,{
-                    "name":"Cascade Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/2.png"
-                }
-                ,{
-                    "name":"Thunder Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/3.png"
-                }
-                ,{
-                    "name":"Rainbow Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/4.png"
-                }
-                ,{
-                    "name":"Soul Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/5.png"
-                }
-                ,{
-                    "name":"Marsh Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/6.png"
-                }
-                ,{
-                    "name":"Volcano Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/7.png"
-                }
-                ,{
-                    "name":"Earth Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/8.png"
-                }
-            ]
-        }
-        , {
-            "name":"Blue"
-            ,"sprite":"./img/trainers/bulbapedia/Blue.png"
-            ,"pokedex":151
-            ,"id":"00003"
-            ,"badges":[
+                    "name": "Cascade Badge",
+                    "sprite": "./img/badges/2.png"
+                },
                 {
-                    "name":"Boulder Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/1.png"
+                    "name": "Thunder Badge",
+                    "sprite": "./img/badges/3.png"
+                },
+                {
+                    "name": "Rainbow Badge",
+                    "sprite": "./img/badges/4.png"
+                },
+                {
+                    "name": "Soul Badge",
+                    "sprite": "./img/badges/5.png"
+                },
+                {
+                    "name": "Marsh Badge",
+                    "sprite": "./img/badges/6.png"
+                },
+                {
+                    "name": "Volcano Badge",
+                    "sprite": "./img/badges/7.png"
+                },
+                {
+                    "name": "Earth Badge",
+                    "sprite": "./img/badges/8.png"
                 }
-                ,{
-                    "name":"Cascade Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/2.png"
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Leaf",
+            "sprite": "./img/trainers/bulbapedia/Leaf.png",
+            "pokedex": 304,
+            "id": "00002",
+            "originGames": [
+                "firered",
+                "leafgreen"
+            ],
+            "gameGroup": "kantoRemakes",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Boulder Badge",
+                    "sprite": "./img/badges/1.png"
+                },
+                {
+                    "name": "Cascade Badge",
+                    "sprite": "./img/badges/2.png"
+                },
+                {
+                    "name": "Thunder Badge",
+                    "sprite": "./img/badges/3.png"
+                },
+                {
+                    "name": "Rainbow Badge",
+                    "sprite": "./img/badges/4.png"
+                },
+                {
+                    "name": "Soul Badge",
+                    "sprite": "./img/badges/5.png"
+                },
+                {
+                    "name": "Marsh Badge",
+                    "sprite": "./img/badges/6.png"
+                },
+                {
+                    "name": "Volcano Badge",
+                    "sprite": "./img/badges/7.png"
+                },
+                {
+                    "name": "Earth Badge",
+                    "sprite": "./img/badges/8.png"
                 }
-                ,{
-                    "name":"Thunder Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/3.png"
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Blue",
+            "sprite": "./img/trainers/bulbapedia/Blue.png",
+            "pokedex": 151,
+            "id": "00003",
+            "originGames": [
+                "red",
+                "green",
+                "blue-jp",
+                "yellow"
+            ],
+            "gameGroup": "kanto",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Boulder Badge",
+                    "sprite": "./img/badges/1.png"
+                },
+                {
+                    "name": "Cascade Badge",
+                    "sprite": "./img/badges/2.png"
+                },
+                {
+                    "name": "Thunder Badge",
+                    "sprite": "./img/badges/3.png"
+                },
+                {
+                    "name": "Rainbow Badge",
+                    "sprite": "./img/badges/4.png"
+                },
+                {
+                    "name": "Soul Badge",
+                    "sprite": "./img/badges/5.png"
+                },
+                {
+                    "name": "Marsh Badge",
+                    "sprite": "./img/badges/6.png"
+                },
+                {
+                    "name": "Volcano Badge",
+                    "sprite": "./img/badges/7.png"
+                },
+                {
+                    "name": "Earth Badge",
+                    "sprite": "./img/badges/8.png"
                 }
-                ,{
-                    "name":"Rainbow Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/4.png"
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Ethan",
+            "sprite": "./img/trainers/bulbapedia/Ethan.png",
+            "pokedex": 251,
+            "id": "00004",
+            "originGames": [
+                "gold",
+                "silver",
+                "crystal"
+            ],
+            "gameGroup": "johto",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Zephyr Badge",
+                    "sprite": "./img/badges/9.png"
+                },
+                {
+                    "name": "Hive Badge",
+                    "sprite": "./img/badges/10.png"
+                },
+                {
+                    "name": "Plain Badge",
+                    "sprite": "./img/badges/11.png"
+                },
+                {
+                    "name": "Fog Badge",
+                    "sprite": "./img/badges/12.png"
+                },
+                {
+                    "name": "Storm Badge",
+                    "sprite": "./img/badges/13.png"
+                },
+                {
+                    "name": "Mineral Badge",
+                    "sprite": "./img/badges/14.png"
+                },
+                {
+                    "name": "Glacier Badge",
+                    "sprite": "./img/badges/15.png"
+                },
+                {
+                    "name": "Rising Badge",
+                    "sprite": "./img/badges/16.png"
+                },
+                {
+                    "name": "Boulder Badge",
+                    "sprite": "./img/badges/1.png"
+                },
+                {
+                    "name": "Cascade Badge",
+                    "sprite": "./img/badges/2.png"
+                },
+                {
+                    "name": "Thunder Badge",
+                    "sprite": "./img/badges/3.png"
+                },
+                {
+                    "name": "Rainbow Badge",
+                    "sprite": "./img/badges/4.png"
+                },
+                {
+                    "name": "Soul Badge",
+                    "sprite": "./img/badges/5.png"
+                },
+                {
+                    "name": "Marsh Badge",
+                    "sprite": "./img/badges/6.png"
+                },
+                {
+                    "name": "Volcano Badge",
+                    "sprite": "./img/badges/7.png"
+                },
+                {
+                    "name": "Earth Badge",
+                    "sprite": "./img/badges/8.png"
                 }
-                ,{
-                    "name":"Soul Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/5.png"
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Kris",
+            "sprite": "./img/trainers/bulbapedia/Kris.png",
+            "pokedex": 251,
+            "id": "00005",
+            "originGames": [
+                "gold",
+                "silver",
+                "crystal"
+            ],
+            "gameGroup": "johto",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Zephyr Badge",
+                    "sprite": "./img/badges/9.png"
+                },
+                {
+                    "name": "Hive Badge",
+                    "sprite": "./img/badges/10.png"
+                },
+                {
+                    "name": "Plain Badge",
+                    "sprite": "./img/badges/11.png"
+                },
+                {
+                    "name": "Fog Badge",
+                    "sprite": "./img/badges/12.png"
+                },
+                {
+                    "name": "Storm Badge",
+                    "sprite": "./img/badges/13.png"
+                },
+                {
+                    "name": "Mineral Badge",
+                    "sprite": "./img/badges/14.png"
+                },
+                {
+                    "name": "Glacier Badge",
+                    "sprite": "./img/badges/15.png"
+                },
+                {
+                    "name": "Rising Badge",
+                    "sprite": "./img/badges/16.png"
+                },
+                {
+                    "name": "Boulder Badge",
+                    "sprite": "./img/badges/1.png"
+                },
+                {
+                    "name": "Cascade Badge",
+                    "sprite": "./img/badges/2.png"
+                },
+                {
+                    "name": "Thunder Badge",
+                    "sprite": "./img/badges/3.png"
+                },
+                {
+                    "name": "Rainbow Badge",
+                    "sprite": "./img/badges/4.png"
+                },
+                {
+                    "name": "Soul Badge",
+                    "sprite": "./img/badges/5.png"
+                },
+                {
+                    "name": "Marsh Badge",
+                    "sprite": "./img/badges/6.png"
+                },
+                {
+                    "name": "Volcano Badge",
+                    "sprite": "./img/badges/7.png"
+                },
+                {
+                    "name": "Earth Badge",
+                    "sprite": "./img/badges/8.png"
                 }
-                ,{
-                    "name":"Marsh Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/6.png"
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Lyra",
+            "sprite": "./img/trainers/bulbapedia/Lyra.png",
+            "pokedex": 439,
+            "id": "00006",
+            "originGames": [
+                "heartgold",
+                "soulsilver"
+            ],
+            "gameGroup": "johtoRemakes",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Zephyr Badge",
+                    "sprite": "./img/badges/9.png"
+                },
+                {
+                    "name": "Hive Badge",
+                    "sprite": "./img/badges/10.png"
+                },
+                {
+                    "name": "Plain Badge",
+                    "sprite": "./img/badges/11.png"
+                },
+                {
+                    "name": "Fog Badge",
+                    "sprite": "./img/badges/12.png"
+                },
+                {
+                    "name": "Storm Badge",
+                    "sprite": "./img/badges/13.png"
+                },
+                {
+                    "name": "Mineral Badge",
+                    "sprite": "./img/badges/14.png"
+                },
+                {
+                    "name": "Glacier Badge",
+                    "sprite": "./img/badges/15.png"
+                },
+                {
+                    "name": "Rising Badge",
+                    "sprite": "./img/badges/16.png"
+                },
+                {
+                    "name": "Boulder Badge",
+                    "sprite": "./img/badges/1.png"
+                },
+                {
+                    "name": "Cascade Badge",
+                    "sprite": "./img/badges/2.png"
+                },
+                {
+                    "name": "Thunder Badge",
+                    "sprite": "./img/badges/3.png"
+                },
+                {
+                    "name": "Rainbow Badge",
+                    "sprite": "./img/badges/4.png"
+                },
+                {
+                    "name": "Soul Badge",
+                    "sprite": "./img/badges/5.png"
+                },
+                {
+                    "name": "Marsh Badge",
+                    "sprite": "./img/badges/6.png"
+                },
+                {
+                    "name": "Volcano Badge",
+                    "sprite": "./img/badges/7.png"
+                },
+                {
+                    "name": "Earth Badge",
+                    "sprite": "./img/badges/8.png"
                 }
-                ,{
-                    "name":"Volcano Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/7.png"
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Silver",
+            "sprite": "./img/trainers/bulbapedia/Silver.png",
+            "pokedex": 251,
+            "id": "00007",
+            "originGames": [
+                "gold",
+                "silver",
+                "crystal"
+            ],
+            "gameGroup": "johto",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Zephyr Badge",
+                    "sprite": "./img/badges/9.png"
+                },
+                {
+                    "name": "Hive Badge",
+                    "sprite": "./img/badges/10.png"
+                },
+                {
+                    "name": "Plain Badge",
+                    "sprite": "./img/badges/11.png"
+                },
+                {
+                    "name": "Fog Badge",
+                    "sprite": "./img/badges/12.png"
+                },
+                {
+                    "name": "Storm Badge",
+                    "sprite": "./img/badges/13.png"
+                },
+                {
+                    "name": "Mineral Badge",
+                    "sprite": "./img/badges/14.png"
+                },
+                {
+                    "name": "Glacier Badge",
+                    "sprite": "./img/badges/15.png"
+                },
+                {
+                    "name": "Rising Badge",
+                    "sprite": "./img/badges/16.png"
+                },
+                {
+                    "name": "Boulder Badge",
+                    "sprite": "./img/badges/1.png"
+                },
+                {
+                    "name": "Cascade Badge",
+                    "sprite": "./img/badges/2.png"
+                },
+                {
+                    "name": "Thunder Badge",
+                    "sprite": "./img/badges/3.png"
+                },
+                {
+                    "name": "Rainbow Badge",
+                    "sprite": "./img/badges/4.png"
+                },
+                {
+                    "name": "Soul Badge",
+                    "sprite": "./img/badges/5.png"
+                },
+                {
+                    "name": "Marsh Badge",
+                    "sprite": "./img/badges/6.png"
+                },
+                {
+                    "name": "Volcano Badge",
+                    "sprite": "./img/badges/7.png"
+                },
+                {
+                    "name": "Earth Badge",
+                    "sprite": "./img/badges/8.png"
                 }
-                ,{
-                    "name":"Earth Badge"
-                    ,"sprite":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/8.png"
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Brendan",
+            "sprite": "./img/trainers/bulbapedia/Brendan.png",
+            "pokedex": 299,
+            "id": "00008",
+            "originGames": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "gameGroup": "hoenn",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Stone Badge",
+                    "sprite": "./img/badges/17.png"
+                },
+                {
+                    "name": "Knuckle Badge",
+                    "sprite": "./img/badges/18.png"
+                },
+                {
+                    "name": "Dynamo Badge",
+                    "sprite": "./img/badges/19.png"
+                },
+                {
+                    "name": "Heat Badge",
+                    "sprite": "./img/badges/20.png"
+                },
+                {
+                    "name": "Balance Badge",
+                    "sprite": "./img/badges/21.png"
+                },
+                {
+                    "name": "Feather Badge",
+                    "sprite": "./img/badges/22.png"
+                },
+                {
+                    "name": "Mind Badge",
+                    "sprite": "./img/badges/23.png"
+                },
+                {
+                    "name": "Rain Badge",
+                    "sprite": "./img/badges/24.png"
                 }
-            ]
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "May",
+            "sprite": "./img/trainers/bulbapedia/May.png",
+            "pokedex": 299,
+            "id": "00009",
+            "originGames": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "gameGroup": "hoenn",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Stone Badge",
+                    "sprite": "./img/badges/17.png"
+                },
+                {
+                    "name": "Knuckle Badge",
+                    "sprite": "./img/badges/18.png"
+                },
+                {
+                    "name": "Dynamo Badge",
+                    "sprite": "./img/badges/19.png"
+                },
+                {
+                    "name": "Heat Badge",
+                    "sprite": "./img/badges/20.png"
+                },
+                {
+                    "name": "Balance Badge",
+                    "sprite": "./img/badges/21.png"
+                },
+                {
+                    "name": "Feather Badge",
+                    "sprite": "./img/badges/22.png"
+                },
+                {
+                    "name": "Mind Badge",
+                    "sprite": "./img/badges/23.png"
+                },
+                {
+                    "name": "Rain Badge",
+                    "sprite": "./img/badges/24.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Wally",
+            "sprite": "./img/trainers/bulbapedia/Wally.png",
+            "pokedex": 299,
+            "id": "00010",
+            "originGames": [
+                "ruby",
+                "sapphire",
+                "emerald"
+            ],
+            "gameGroup": "hoenn",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Stone Badge",
+                    "sprite": "./img/badges/17.png"
+                },
+                {
+                    "name": "Knuckle Badge",
+                    "sprite": "./img/badges/18.png"
+                },
+                {
+                    "name": "Dynamo Badge",
+                    "sprite": "./img/badges/19.png"
+                },
+                {
+                    "name": "Heat Badge",
+                    "sprite": "./img/badges/20.png"
+                },
+                {
+                    "name": "Balance Badge",
+                    "sprite": "./img/badges/21.png"
+                },
+                {
+                    "name": "Feather Badge",
+                    "sprite": "./img/badges/22.png"
+                },
+                {
+                    "name": "Mind Badge",
+                    "sprite": "./img/badges/23.png"
+                },
+                {
+                    "name": "Rain Badge",
+                    "sprite": "./img/badges/24.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Lucas",
+            "sprite": "./img/trainers/bulbapedia/Lucas.png",
+            "pokedex": 430,
+            "id": "00011",
+            "originGames": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "gameGroup": "sinnoh",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Coal Badge",
+                    "sprite": "./img/badges/25.png"
+                },
+                {
+                    "name": "Forest Badge",
+                    "sprite": "./img/badges/26.png"
+                },
+                {
+                    "name": "Relic Badge",
+                    "sprite": "./img/badges/29.png"
+                },
+                {
+                    "name": "Cobble Badge",
+                    "sprite": "./img/badges/27.png"
+                },
+                {
+                    "name": "Fen Badge",
+                    "sprite": "./img/badges/28.png"
+                },
+                {
+                    "name": "Mine Badge",
+                    "sprite": "./img/badges/30.png"
+                },
+                {
+                    "name": "Icicle Badge",
+                    "sprite": "./img/badges/31.png"
+                },
+                {
+                    "name": "Beacon Badge",
+                    "sprite": "./img/badges/32.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Dawn",
+            "sprite": "./img/trainers/bulbapedia/Dawn.png",
+            "pokedex": 430,
+            "id": "00012",
+            "originGames": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "gameGroup": "sinnoh",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Coal Badge",
+                    "sprite": "./img/badges/25.png"
+                },
+                {
+                    "name": "Forest Badge",
+                    "sprite": "./img/badges/26.png"
+                },
+                {
+                    "name": "Relic Badge",
+                    "sprite": "./img/badges/29.png"
+                },
+                {
+                    "name": "Cobble Badge",
+                    "sprite": "./img/badges/27.png"
+                },
+                {
+                    "name": "Fen Badge",
+                    "sprite": "./img/badges/28.png"
+                },
+                {
+                    "name": "Mine Badge",
+                    "sprite": "./img/badges/30.png"
+                },
+                {
+                    "name": "Icicle Badge",
+                    "sprite": "./img/badges/31.png"
+                },
+                {
+                    "name": "Beacon Badge",
+                    "sprite": "./img/badges/32.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Barry",
+            "sprite": "./img/trainers/bulbapedia/Barry.png",
+            "pokedex": 430,
+            "id": "00013",
+            "originGames": [
+                "diamond",
+                "pearl",
+                "platinum"
+            ],
+            "gameGroup": "sinnoh",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Coal Badge",
+                    "sprite": "./img/badges/25.png"
+                },
+                {
+                    "name": "Forest Badge",
+                    "sprite": "./img/badges/26.png"
+                },
+                {
+                    "name": "Relic Badge",
+                    "sprite": "./img/badges/29.png"
+                },
+                {
+                    "name": "Cobble Badge",
+                    "sprite": "./img/badges/27.png"
+                },
+                {
+                    "name": "Fen Badge",
+                    "sprite": "./img/badges/28.png"
+                },
+                {
+                    "name": "Mine Badge",
+                    "sprite": "./img/badges/30.png"
+                },
+                {
+                    "name": "Icicle Badge",
+                    "sprite": "./img/badges/31.png"
+                },
+                {
+                    "name": "Beacon Badge",
+                    "sprite": "./img/badges/32.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Hilbert",
+            "sprite": "./img/trainers/bulbapedia/Hilbert.png",
+            "pokedex": 514,
+            "id": "00014",
+            "originGames": [
+                "black",
+                "white"
+            ],
+            "gameGroup": "unova",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Trio Badge",
+                    "sprite": "./img/badges/33.png"
+                },
+                {
+                    "name": "Basic Badge",
+                    "sprite": "./img/badges/34.png"
+                },
+                {
+                    "name": "Insect Badge",
+                    "sprite": "./img/badges/35.png"
+                },
+                {
+                    "name": "Bolt Badge",
+                    "sprite": "./img/badges/36.png"
+                },
+                {
+                    "name": "Quake Badge",
+                    "sprite": "./img/badges/37.png"
+                },
+                {
+                    "name": "Jet Badge",
+                    "sprite": "./img/badges/38.png"
+                },
+                {
+                    "name": "Freeze Badge",
+                    "sprite": "./img/badges/39.png"
+                },
+                {
+                    "name": "Legend Badge",
+                    "sprite": "./img/badges/40.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Hilda",
+            "sprite": "./img/trainers/bulbapedia/Hilda.png",
+            "pokedex": 514,
+            "id": "00015",
+            "originGames": [
+                "black",
+                "white"
+            ],
+            "gameGroup": "unova",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Trio Badge",
+                    "sprite": "./img/badges/33.png"
+                },
+                {
+                    "name": "Basic Badge",
+                    "sprite": "./img/badges/34.png"
+                },
+                {
+                    "name": "Insect Badge",
+                    "sprite": "./img/badges/35.png"
+                },
+                {
+                    "name": "Bolt Badge",
+                    "sprite": "./img/badges/36.png"
+                },
+                {
+                    "name": "Quake Badge",
+                    "sprite": "./img/badges/37.png"
+                },
+                {
+                    "name": "Jet Badge",
+                    "sprite": "./img/badges/38.png"
+                },
+                {
+                    "name": "Freeze Badge",
+                    "sprite": "./img/badges/39.png"
+                },
+                {
+                    "name": "Legend Badge",
+                    "sprite": "./img/badges/40.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Cheren",
+            "sprite": "./img/trainers/bulbapedia/Cheren.png",
+            "pokedex": 514,
+            "id": "00016",
+            "originGames": [
+                "black",
+                "white"
+            ],
+            "gameGroup": "unova",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Trio Badge",
+                    "sprite": "./img/badges/33.png"
+                },
+                {
+                    "name": "Basic Badge",
+                    "sprite": "./img/badges/34.png"
+                },
+                {
+                    "name": "Insect Badge",
+                    "sprite": "./img/badges/35.png"
+                },
+                {
+                    "name": "Bolt Badge",
+                    "sprite": "./img/badges/36.png"
+                },
+                {
+                    "name": "Quake Badge",
+                    "sprite": "./img/badges/37.png"
+                },
+                {
+                    "name": "Jet Badge",
+                    "sprite": "./img/badges/38.png"
+                },
+                {
+                    "name": "Freeze Badge",
+                    "sprite": "./img/badges/39.png"
+                },
+                {
+                    "name": "Legend Badge",
+                    "sprite": "./img/badges/40.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Bianca",
+            "sprite": "./img/trainers/bulbapedia/Bianca.png",
+            "pokedex": 514,
+            "id": "00017",
+            "originGames": [
+                "black",
+                "white"
+            ],
+            "gameGroup": "unova",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Trio Badge",
+                    "sprite": "./img/badges/33.png"
+                },
+                {
+                    "name": "Basic Badge",
+                    "sprite": "./img/badges/34.png"
+                },
+                {
+                    "name": "Insect Badge",
+                    "sprite": "./img/badges/35.png"
+                },
+                {
+                    "name": "Bolt Badge",
+                    "sprite": "./img/badges/36.png"
+                },
+                {
+                    "name": "Quake Badge",
+                    "sprite": "./img/badges/37.png"
+                },
+                {
+                    "name": "Jet Badge",
+                    "sprite": "./img/badges/38.png"
+                },
+                {
+                    "name": "Freeze Badge",
+                    "sprite": "./img/badges/39.png"
+                },
+                {
+                    "name": "Legend Badge",
+                    "sprite": "./img/badges/40.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "N",
+            "sprite": "./img/trainers/bulbapedia/N.png",
+            "pokedex": 514,
+            "id": "00018",
+            "originGames": [
+                "black",
+                "white"
+            ],
+            "gameGroup": "unova",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Trio Badge",
+                    "sprite": "./img/badges/33.png"
+                },
+                {
+                    "name": "Basic Badge",
+                    "sprite": "./img/badges/34.png"
+                },
+                {
+                    "name": "Insect Badge",
+                    "sprite": "./img/badges/35.png"
+                },
+                {
+                    "name": "Bolt Badge",
+                    "sprite": "./img/badges/36.png"
+                },
+                {
+                    "name": "Quake Badge",
+                    "sprite": "./img/badges/37.png"
+                },
+                {
+                    "name": "Jet Badge",
+                    "sprite": "./img/badges/38.png"
+                },
+                {
+                    "name": "Freeze Badge",
+                    "sprite": "./img/badges/39.png"
+                },
+                {
+                    "name": "Legend Badge",
+                    "sprite": "./img/badges/40.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Nate",
+            "sprite": "./img/trainers/bulbapedia/Nate.png",
+            "pokedex": 512,
+            "id": "00019",
+            "originGames": [
+                "black-2",
+                "white-2"
+            ],
+            "gameGroup": "unovaSequels",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Basic Badge",
+                    "sprite": "./img/badges/34.png"
+                },
+                {
+                    "name": "Toxic Badge",
+                    "sprite": "./img/badges/41.png"
+                },
+                {
+                    "name": "Insect Badge",
+                    "sprite": "./img/badges/35.png"
+                },
+                {
+                    "name": "Bolt Badge",
+                    "sprite": "./img/badges/36.png"
+                },
+                {
+                    "name": "Quake Badge",
+                    "sprite": "./img/badges/37.png"
+                },
+                {
+                    "name": "Jet Badge",
+                    "sprite": "./img/badges/38.png"
+                },
+                {
+                    "name": "Legend Badge",
+                    "sprite": "./img/badges/40.png"
+                },
+                {
+                    "name": "Wave Badge",
+                    "sprite": "./img/badges/42.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Rosa",
+            "sprite": "./img/trainers/bulbapedia/Rosa.png",
+            "pokedex": 512,
+            "id": "00020",
+            "originGames": [
+                "black-2",
+                "white-2"
+            ],
+            "gameGroup": "unovaSequels",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Basic Badge",
+                    "sprite": "./img/badges/34.png"
+                },
+                {
+                    "name": "Toxic Badge",
+                    "sprite": "./img/badges/41.png"
+                },
+                {
+                    "name": "Insect Badge",
+                    "sprite": "./img/badges/35.png"
+                },
+                {
+                    "name": "Bolt Badge",
+                    "sprite": "./img/badges/36.png"
+                },
+                {
+                    "name": "Quake Badge",
+                    "sprite": "./img/badges/37.png"
+                },
+                {
+                    "name": "Jet Badge",
+                    "sprite": "./img/badges/38.png"
+                },
+                {
+                    "name": "Legend Badge",
+                    "sprite": "./img/badges/40.png"
+                },
+                {
+                    "name": "Wave Badge",
+                    "sprite": "./img/badges/42.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Hugh",
+            "sprite": "./img/trainers/bulbapedia/Hugh.png",
+            "pokedex": 512,
+            "id": "00021",
+            "originGames": [
+                "black-2",
+                "white-2"
+            ],
+            "gameGroup": "unovaSequels",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Basic Badge",
+                    "sprite": "./img/badges/34.png"
+                },
+                {
+                    "name": "Toxic Badge",
+                    "sprite": "./img/badges/41.png"
+                },
+                {
+                    "name": "Insect Badge",
+                    "sprite": "./img/badges/35.png"
+                },
+                {
+                    "name": "Bolt Badge",
+                    "sprite": "./img/badges/36.png"
+                },
+                {
+                    "name": "Quake Badge",
+                    "sprite": "./img/badges/37.png"
+                },
+                {
+                    "name": "Jet Badge",
+                    "sprite": "./img/badges/38.png"
+                },
+                {
+                    "name": "Legend Badge",
+                    "sprite": "./img/badges/40.png"
+                },
+                {
+                    "name": "Wave Badge",
+                    "sprite": "./img/badges/42.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Calem",
+            "sprite": "./img/trainers/bulbapedia/Calem.png",
+            "pokedex": 638,
+            "id": "00022",
+            "originGames": [
+                "x",
+                "y"
+            ],
+            "gameGroup": "kalos",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Bug Badge",
+                    "sprite": "./img/badges/43.png"
+                },
+                {
+                    "name": "Cliff Badge",
+                    "sprite": "./img/badges/44.png"
+                },
+                {
+                    "name": "Rumble Badge",
+                    "sprite": "./img/badges/45.png"
+                },
+                {
+                    "name": "Plant Badge",
+                    "sprite": "./img/badges/46.png"
+                },
+                {
+                    "name": "Voltage Badge",
+                    "sprite": "./img/badges/47.png"
+                },
+                {
+                    "name": "Fairy Badge",
+                    "sprite": "./img/badges/48.png"
+                },
+                {
+                    "name": "Psychic Badge",
+                    "sprite": "./img/badges/49.png"
+                },
+                {
+                    "name": "Iceberg Badge",
+                    "sprite": "./img/badges/50.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Serena",
+            "sprite": "./img/trainers/bulbapedia/Serena.png",
+            "pokedex": 638,
+            "id": "00023",
+            "originGames": [
+                "x",
+                "y"
+            ],
+            "gameGroup": "kalos",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Bug Badge",
+                    "sprite": "./img/badges/43.png"
+                },
+                {
+                    "name": "Cliff Badge",
+                    "sprite": "./img/badges/44.png"
+                },
+                {
+                    "name": "Rumble Badge",
+                    "sprite": "./img/badges/45.png"
+                },
+                {
+                    "name": "Plant Badge",
+                    "sprite": "./img/badges/46.png"
+                },
+                {
+                    "name": "Voltage Badge",
+                    "sprite": "./img/badges/47.png"
+                },
+                {
+                    "name": "Fairy Badge",
+                    "sprite": "./img/badges/48.png"
+                },
+                {
+                    "name": "Psychic Badge",
+                    "sprite": "./img/badges/49.png"
+                },
+                {
+                    "name": "Iceberg Badge",
+                    "sprite": "./img/badges/50.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Shauna",
+            "sprite": "./img/trainers/bulbapedia/Shauna.png",
+            "pokedex": 638,
+            "id": "00024",
+            "originGames": [
+                "x",
+                "y"
+            ],
+            "gameGroup": "kalos",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Bug Badge",
+                    "sprite": "./img/badges/43.png"
+                },
+                {
+                    "name": "Cliff Badge",
+                    "sprite": "./img/badges/44.png"
+                },
+                {
+                    "name": "Rumble Badge",
+                    "sprite": "./img/badges/45.png"
+                },
+                {
+                    "name": "Plant Badge",
+                    "sprite": "./img/badges/46.png"
+                },
+                {
+                    "name": "Voltage Badge",
+                    "sprite": "./img/badges/47.png"
+                },
+                {
+                    "name": "Fairy Badge",
+                    "sprite": "./img/badges/48.png"
+                },
+                {
+                    "name": "Psychic Badge",
+                    "sprite": "./img/badges/49.png"
+                },
+                {
+                    "name": "Iceberg Badge",
+                    "sprite": "./img/badges/50.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Tierno",
+            "sprite": "./img/trainers/bulbapedia/Tierno.png",
+            "pokedex": 638,
+            "id": "00025",
+            "originGames": [
+                "x",
+                "y"
+            ],
+            "gameGroup": "kalos",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Bug Badge",
+                    "sprite": "./img/badges/43.png"
+                },
+                {
+                    "name": "Cliff Badge",
+                    "sprite": "./img/badges/44.png"
+                },
+                {
+                    "name": "Rumble Badge",
+                    "sprite": "./img/badges/45.png"
+                },
+                {
+                    "name": "Plant Badge",
+                    "sprite": "./img/badges/46.png"
+                },
+                {
+                    "name": "Voltage Badge",
+                    "sprite": "./img/badges/47.png"
+                },
+                {
+                    "name": "Fairy Badge",
+                    "sprite": "./img/badges/48.png"
+                },
+                {
+                    "name": "Psychic Badge",
+                    "sprite": "./img/badges/49.png"
+                },
+                {
+                    "name": "Iceberg Badge",
+                    "sprite": "./img/badges/50.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Trevor",
+            "sprite": "./img/trainers/bulbapedia/Trevor.png",
+            "pokedex": 638,
+            "id": "00026",
+            "originGames": [
+                "x",
+                "y"
+            ],
+            "gameGroup": "kalos",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Bug Badge",
+                    "sprite": "./img/badges/43.png"
+                },
+                {
+                    "name": "Cliff Badge",
+                    "sprite": "./img/badges/44.png"
+                },
+                {
+                    "name": "Rumble Badge",
+                    "sprite": "./img/badges/45.png"
+                },
+                {
+                    "name": "Plant Badge",
+                    "sprite": "./img/badges/46.png"
+                },
+                {
+                    "name": "Voltage Badge",
+                    "sprite": "./img/badges/47.png"
+                },
+                {
+                    "name": "Fairy Badge",
+                    "sprite": "./img/badges/48.png"
+                },
+                {
+                    "name": "Psychic Badge",
+                    "sprite": "./img/badges/49.png"
+                },
+                {
+                    "name": "Iceberg Badge",
+                    "sprite": "./img/badges/50.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Elio",
+            "sprite": "./img/trainers/bulbapedia/Elio.png",
+            "pokedex": 643,
+            "id": "00027",
+            "originGames": [
+                "sun",
+                "moon",
+                "ultra-sun",
+                "ultra-moon"
+            ],
+            "gameGroup": "alola",
+            "badgesLabel": "Cristais Z",
+            "badges": [
+                {
+                    "name": "Fightinium Z — Melemele",
+                    "sprite": "./img/badges/fightinium-z.png"
+                },
+                {
+                    "name": "Rockium Z — Akala",
+                    "sprite": "./img/badges/rockium-z.png"
+                },
+                {
+                    "name": "Darkinium Z — Ula’ula",
+                    "sprite": "./img/badges/darkinium-z.png"
+                },
+                {
+                    "name": "Groundium Z — Poni",
+                    "sprite": "./img/badges/groundium-z.png"
+                }
+            ],
+            "badgesNote": "Recompensas das quatro Grandes Provas de Alola."
+        },
+        {
+            "name": "Selene",
+            "sprite": "./img/trainers/bulbapedia/Selene.png",
+            "pokedex": 643,
+            "id": "00028",
+            "originGames": [
+                "sun",
+                "moon",
+                "ultra-sun",
+                "ultra-moon"
+            ],
+            "gameGroup": "alola",
+            "badgesLabel": "Cristais Z",
+            "badges": [
+                {
+                    "name": "Fightinium Z — Melemele",
+                    "sprite": "./img/badges/fightinium-z.png"
+                },
+                {
+                    "name": "Rockium Z — Akala",
+                    "sprite": "./img/badges/rockium-z.png"
+                },
+                {
+                    "name": "Darkinium Z — Ula’ula",
+                    "sprite": "./img/badges/darkinium-z.png"
+                },
+                {
+                    "name": "Groundium Z — Poni",
+                    "sprite": "./img/badges/groundium-z.png"
+                }
+            ],
+            "badgesNote": "Recompensas das quatro Grandes Provas de Alola."
+        },
+        {
+            "name": "Hau",
+            "sprite": "./img/trainers/bulbapedia/Hau.png",
+            "pokedex": 643,
+            "id": "00029",
+            "originGames": [
+                "sun",
+                "moon",
+                "ultra-sun",
+                "ultra-moon"
+            ],
+            "gameGroup": "alola",
+            "badgesLabel": "Cristais Z",
+            "badges": [
+                {
+                    "name": "Fightinium Z — Melemele",
+                    "sprite": "./img/badges/fightinium-z.png"
+                },
+                {
+                    "name": "Rockium Z — Akala",
+                    "sprite": "./img/badges/rockium-z.png"
+                },
+                {
+                    "name": "Darkinium Z — Ula’ula",
+                    "sprite": "./img/badges/darkinium-z.png"
+                },
+                {
+                    "name": "Groundium Z — Poni",
+                    "sprite": "./img/badges/groundium-z.png"
+                }
+            ],
+            "badgesNote": "Recompensas das quatro Grandes Provas de Alola."
+        },
+        {
+            "name": "Gladion",
+            "sprite": "./img/trainers/bulbapedia/Gladion.png",
+            "pokedex": 643,
+            "id": "00030",
+            "originGames": [
+                "sun",
+                "moon",
+                "ultra-sun",
+                "ultra-moon"
+            ],
+            "gameGroup": "alola",
+            "badgesLabel": "Cristais Z",
+            "badges": [
+                {
+                    "name": "Fightinium Z — Melemele",
+                    "sprite": "./img/badges/fightinium-z.png"
+                },
+                {
+                    "name": "Rockium Z — Akala",
+                    "sprite": "./img/badges/rockium-z.png"
+                },
+                {
+                    "name": "Darkinium Z — Ula’ula",
+                    "sprite": "./img/badges/darkinium-z.png"
+                },
+                {
+                    "name": "Groundium Z — Poni",
+                    "sprite": "./img/badges/groundium-z.png"
+                }
+            ],
+            "badgesNote": "Recompensas das quatro Grandes Provas de Alola."
+        },
+        {
+            "name": "Chase",
+            "sprite": "./img/trainers/bulbapedia/Chase.png",
+            "pokedex": 152,
+            "id": "00031",
+            "originGames": [
+                "lets-go-pikachu",
+                "lets-go-eevee"
+            ],
+            "gameGroup": "letsGo",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Boulder Badge",
+                    "sprite": "./img/badges/1.png"
+                },
+                {
+                    "name": "Cascade Badge",
+                    "sprite": "./img/badges/2.png"
+                },
+                {
+                    "name": "Thunder Badge",
+                    "sprite": "./img/badges/3.png"
+                },
+                {
+                    "name": "Rainbow Badge",
+                    "sprite": "./img/badges/4.png"
+                },
+                {
+                    "name": "Soul Badge",
+                    "sprite": "./img/badges/5.png"
+                },
+                {
+                    "name": "Marsh Badge",
+                    "sprite": "./img/badges/6.png"
+                },
+                {
+                    "name": "Volcano Badge",
+                    "sprite": "./img/badges/7.png"
+                },
+                {
+                    "name": "Earth Badge",
+                    "sprite": "./img/badges/8.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Elaine",
+            "sprite": "./img/trainers/bulbapedia/Elaine.png",
+            "pokedex": 152,
+            "id": "00032",
+            "originGames": [
+                "lets-go-pikachu",
+                "lets-go-eevee"
+            ],
+            "gameGroup": "letsGo",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Boulder Badge",
+                    "sprite": "./img/badges/1.png"
+                },
+                {
+                    "name": "Cascade Badge",
+                    "sprite": "./img/badges/2.png"
+                },
+                {
+                    "name": "Thunder Badge",
+                    "sprite": "./img/badges/3.png"
+                },
+                {
+                    "name": "Rainbow Badge",
+                    "sprite": "./img/badges/4.png"
+                },
+                {
+                    "name": "Soul Badge",
+                    "sprite": "./img/badges/5.png"
+                },
+                {
+                    "name": "Marsh Badge",
+                    "sprite": "./img/badges/6.png"
+                },
+                {
+                    "name": "Volcano Badge",
+                    "sprite": "./img/badges/7.png"
+                },
+                {
+                    "name": "Earth Badge",
+                    "sprite": "./img/badges/8.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Trace",
+            "sprite": "./img/trainers/bulbapedia/Trace.png",
+            "pokedex": 152,
+            "id": "00033",
+            "originGames": [
+                "lets-go-pikachu",
+                "lets-go-eevee"
+            ],
+            "gameGroup": "letsGo",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Boulder Badge",
+                    "sprite": "./img/badges/1.png"
+                },
+                {
+                    "name": "Cascade Badge",
+                    "sprite": "./img/badges/2.png"
+                },
+                {
+                    "name": "Thunder Badge",
+                    "sprite": "./img/badges/3.png"
+                },
+                {
+                    "name": "Rainbow Badge",
+                    "sprite": "./img/badges/4.png"
+                },
+                {
+                    "name": "Soul Badge",
+                    "sprite": "./img/badges/5.png"
+                },
+                {
+                    "name": "Marsh Badge",
+                    "sprite": "./img/badges/6.png"
+                },
+                {
+                    "name": "Volcano Badge",
+                    "sprite": "./img/badges/7.png"
+                },
+                {
+                    "name": "Earth Badge",
+                    "sprite": "./img/badges/8.png"
+                }
+            ],
+            "badgesNote": null
+        },
+        {
+            "name": "Victor",
+            "sprite": "./img/trainers/bulbapedia/Victor.png",
+            "pokedex": 659,
+            "id": "00034",
+            "originGames": [
+                "sword",
+                "shield"
+            ],
+            "gameGroup": "galar",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Grass Badge",
+                    "sprite": "./img/badges/51.png"
+                },
+                {
+                    "name": "Water Badge",
+                    "sprite": "./img/badges/52.png"
+                },
+                {
+                    "name": "Fire Badge",
+                    "sprite": "./img/badges/53.png"
+                },
+                {
+                    "name": "Fighting Badge",
+                    "sprite": "./img/badges/54.png"
+                },
+                {
+                    "name": "Fairy Badge",
+                    "sprite": "./img/badges/56.png"
+                },
+                {
+                    "name": "Rock Badge",
+                    "sprite": "./img/badges/57.png"
+                },
+                {
+                    "name": "Dark Badge",
+                    "sprite": "./img/badges/59.png"
+                },
+                {
+                    "name": "Dragon Badge",
+                    "sprite": "./img/badges/60.png"
+                }
+            ],
+            "badgesNote": "Conjunto de referência de Pokémon Sword."
+        },
+        {
+            "name": "Gloria",
+            "sprite": "./img/trainers/bulbapedia/Gloria.png",
+            "pokedex": 659,
+            "id": "00035",
+            "originGames": [
+                "sword",
+                "shield"
+            ],
+            "gameGroup": "galar",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Grass Badge",
+                    "sprite": "./img/badges/51.png"
+                },
+                {
+                    "name": "Water Badge",
+                    "sprite": "./img/badges/52.png"
+                },
+                {
+                    "name": "Fire Badge",
+                    "sprite": "./img/badges/53.png"
+                },
+                {
+                    "name": "Ghost Badge",
+                    "sprite": "./img/badges/55.png"
+                },
+                {
+                    "name": "Fairy Badge",
+                    "sprite": "./img/badges/56.png"
+                },
+                {
+                    "name": "Ice Badge",
+                    "sprite": "./img/badges/58.png"
+                },
+                {
+                    "name": "Dark Badge",
+                    "sprite": "./img/badges/59.png"
+                },
+                {
+                    "name": "Dragon Badge",
+                    "sprite": "./img/badges/60.png"
+                }
+            ],
+            "badgesNote": "Conjunto de referência de Pokémon Shield."
+        },
+        {
+            "name": "Hop",
+            "sprite": "./img/trainers/bulbapedia/Hop.png",
+            "pokedex": 659,
+            "id": "00036",
+            "originGames": [
+                "sword",
+                "shield"
+            ],
+            "gameGroup": "galar",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Grass Badge",
+                    "sprite": "./img/badges/51.png"
+                },
+                {
+                    "name": "Water Badge",
+                    "sprite": "./img/badges/52.png"
+                },
+                {
+                    "name": "Fire Badge",
+                    "sprite": "./img/badges/53.png"
+                },
+                {
+                    "name": "Fighting Badge",
+                    "sprite": "./img/badges/54.png"
+                },
+                {
+                    "name": "Fairy Badge",
+                    "sprite": "./img/badges/56.png"
+                },
+                {
+                    "name": "Rock Badge",
+                    "sprite": "./img/badges/57.png"
+                },
+                {
+                    "name": "Dark Badge",
+                    "sprite": "./img/badges/59.png"
+                },
+                {
+                    "name": "Dragon Badge",
+                    "sprite": "./img/badges/60.png"
+                }
+            ],
+            "badgesNote": "Conjunto de referência de Pokémon Sword."
+        },
+        {
+            "name": "Bede",
+            "sprite": "./img/trainers/bulbapedia/Bede.png",
+            "pokedex": 659,
+            "id": "00037",
+            "originGames": [
+                "sword",
+                "shield"
+            ],
+            "gameGroup": "galar",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Grass Badge",
+                    "sprite": "./img/badges/51.png"
+                },
+                {
+                    "name": "Water Badge",
+                    "sprite": "./img/badges/52.png"
+                },
+                {
+                    "name": "Fire Badge",
+                    "sprite": "./img/badges/53.png"
+                },
+                {
+                    "name": "Fighting Badge",
+                    "sprite": "./img/badges/54.png"
+                },
+                {
+                    "name": "Fairy Badge",
+                    "sprite": "./img/badges/56.png"
+                },
+                {
+                    "name": "Rock Badge",
+                    "sprite": "./img/badges/57.png"
+                },
+                {
+                    "name": "Dark Badge",
+                    "sprite": "./img/badges/59.png"
+                },
+                {
+                    "name": "Dragon Badge",
+                    "sprite": "./img/badges/60.png"
+                }
+            ],
+            "badgesNote": "Conjunto de referência de Pokémon Sword."
+        },
+        {
+            "name": "Marnie",
+            "sprite": "./img/trainers/bulbapedia/Marnie.png",
+            "pokedex": 659,
+            "id": "00038",
+            "originGames": [
+                "sword",
+                "shield"
+            ],
+            "gameGroup": "galar",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Grass Badge",
+                    "sprite": "./img/badges/51.png"
+                },
+                {
+                    "name": "Water Badge",
+                    "sprite": "./img/badges/52.png"
+                },
+                {
+                    "name": "Fire Badge",
+                    "sprite": "./img/badges/53.png"
+                },
+                {
+                    "name": "Ghost Badge",
+                    "sprite": "./img/badges/55.png"
+                },
+                {
+                    "name": "Fairy Badge",
+                    "sprite": "./img/badges/56.png"
+                },
+                {
+                    "name": "Ice Badge",
+                    "sprite": "./img/badges/58.png"
+                },
+                {
+                    "name": "Dark Badge",
+                    "sprite": "./img/badges/59.png"
+                },
+                {
+                    "name": "Dragon Badge",
+                    "sprite": "./img/badges/60.png"
+                }
+            ],
+            "badgesNote": "Conjunto de referência de Pokémon Shield."
+        },
+        {
+            "name": "Klara",
+            "sprite": "./img/trainers/bulbapedia/Klara.png",
+            "pokedex": 659,
+            "id": "00039",
+            "originGames": [
+                "sword",
+                "shield"
+            ],
+            "gameGroup": "galar",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Grass Badge",
+                    "sprite": "./img/badges/51.png"
+                },
+                {
+                    "name": "Water Badge",
+                    "sprite": "./img/badges/52.png"
+                },
+                {
+                    "name": "Fire Badge",
+                    "sprite": "./img/badges/53.png"
+                },
+                {
+                    "name": "Fighting Badge",
+                    "sprite": "./img/badges/54.png"
+                },
+                {
+                    "name": "Fairy Badge",
+                    "sprite": "./img/badges/56.png"
+                },
+                {
+                    "name": "Rock Badge",
+                    "sprite": "./img/badges/57.png"
+                },
+                {
+                    "name": "Dark Badge",
+                    "sprite": "./img/badges/59.png"
+                },
+                {
+                    "name": "Dragon Badge",
+                    "sprite": "./img/badges/60.png"
+                }
+            ],
+            "badgesNote": "Conjunto de referência de Pokémon Sword."
+        },
+        {
+            "name": "Avery",
+            "sprite": "./img/trainers/bulbapedia/Avery.png",
+            "pokedex": 659,
+            "id": "00040",
+            "originGames": [
+                "sword",
+                "shield"
+            ],
+            "gameGroup": "galar",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Grass Badge",
+                    "sprite": "./img/badges/51.png"
+                },
+                {
+                    "name": "Water Badge",
+                    "sprite": "./img/badges/52.png"
+                },
+                {
+                    "name": "Fire Badge",
+                    "sprite": "./img/badges/53.png"
+                },
+                {
+                    "name": "Ghost Badge",
+                    "sprite": "./img/badges/55.png"
+                },
+                {
+                    "name": "Fairy Badge",
+                    "sprite": "./img/badges/56.png"
+                },
+                {
+                    "name": "Ice Badge",
+                    "sprite": "./img/badges/58.png"
+                },
+                {
+                    "name": "Dark Badge",
+                    "sprite": "./img/badges/59.png"
+                },
+                {
+                    "name": "Dragon Badge",
+                    "sprite": "./img/badges/60.png"
+                }
+            ],
+            "badgesNote": "Conjunto de referência de Pokémon Shield."
+        },
+        {
+            "name": "Rei",
+            "sprite": "./img/trainers/bulbapedia/Rei.png",
+            "pokedex": 240,
+            "id": "00041",
+            "originGames": [
+                "legends-arceus"
+            ],
+            "gameGroup": "hisui",
+            "badgesLabel": "Patente",
+            "badges": [
+                {
+                    "name": "Décima estrela (Full Star)"
+                }
+            ],
+            "badgesNote": "Patente máxima da Equipe de Pesquisa Galaxy."
+        },
+        {
+            "name": "Akari",
+            "sprite": "./img/trainers/bulbapedia/Akari.png",
+            "pokedex": 240,
+            "id": "00042",
+            "originGames": [
+                "legends-arceus"
+            ],
+            "gameGroup": "hisui",
+            "badgesLabel": "Patente",
+            "badges": [
+                {
+                    "name": "Décima estrela (Full Star)"
+                }
+            ],
+            "badgesNote": "Patente máxima da Equipe de Pesquisa Galaxy."
+        },
+        {
+            "name": "Florian",
+            "sprite": "./img/trainers/bulbapedia/Florian.png",
+            "pokedex": 700,
+            "id": "00043",
+            "originGames": [
+                "scarlet",
+                "violet"
+            ],
+            "gameGroup": "paldea",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Bug Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-bug.png"
+                },
+                {
+                    "name": "Grass Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-grass.png"
+                },
+                {
+                    "name": "Electric Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-electric.png"
+                },
+                {
+                    "name": "Water Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-water.png"
+                },
+                {
+                    "name": "Normal Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-normal.png"
+                },
+                {
+                    "name": "Ghost Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ghost.png"
+                },
+                {
+                    "name": "Psychic Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-psychic.png"
+                },
+                {
+                    "name": "Ice Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ice.png"
+                },
+                {
+                    "name": "Titan Badge (rock)",
+                    "sprite": "./img/badges/paldea-rock.png"
+                },
+                {
+                    "name": "Titan Badge (flying)",
+                    "sprite": "./img/badges/paldea-flying.png"
+                },
+                {
+                    "name": "Titan Badge (steel)",
+                    "sprite": "./img/badges/paldea-steel.png"
+                },
+                {
+                    "name": "Titan Badge (ground)",
+                    "sprite": "./img/badges/paldea-ground.png"
+                },
+                {
+                    "name": "Titan Badge (dragon)",
+                    "sprite": "./img/badges/paldea-dragon.png"
+                },
+                {
+                    "name": "Star Badge (dark)",
+                    "sprite": "./img/badges/paldea-dark.png"
+                },
+                {
+                    "name": "Star Badge (fire)",
+                    "sprite": "./img/badges/paldea-fire.png"
+                },
+                {
+                    "name": "Star Badge (poison)",
+                    "sprite": "./img/badges/paldea-poison.png"
+                },
+                {
+                    "name": "Star Badge (fairy)",
+                    "sprite": "./img/badges/paldea-fairy.png"
+                },
+                {
+                    "name": "Star Badge (fighting)",
+                    "sprite": "./img/badges/paldea-fighting.png"
+                }
+            ],
+            "badgesNote": "Oito insígnias de ginásios, cinco de Titãs e cinco da Team Star."
+        },
+        {
+            "name": "Juliana",
+            "sprite": "./img/trainers/bulbapedia/Juliana.png",
+            "pokedex": 700,
+            "id": "00044",
+            "originGames": [
+                "scarlet",
+                "violet"
+            ],
+            "gameGroup": "paldea",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Bug Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-bug.png"
+                },
+                {
+                    "name": "Grass Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-grass.png"
+                },
+                {
+                    "name": "Electric Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-electric.png"
+                },
+                {
+                    "name": "Water Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-water.png"
+                },
+                {
+                    "name": "Normal Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-normal.png"
+                },
+                {
+                    "name": "Ghost Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ghost.png"
+                },
+                {
+                    "name": "Psychic Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-psychic.png"
+                },
+                {
+                    "name": "Ice Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ice.png"
+                },
+                {
+                    "name": "Titan Badge (rock)",
+                    "sprite": "./img/badges/paldea-rock.png"
+                },
+                {
+                    "name": "Titan Badge (flying)",
+                    "sprite": "./img/badges/paldea-flying.png"
+                },
+                {
+                    "name": "Titan Badge (steel)",
+                    "sprite": "./img/badges/paldea-steel.png"
+                },
+                {
+                    "name": "Titan Badge (ground)",
+                    "sprite": "./img/badges/paldea-ground.png"
+                },
+                {
+                    "name": "Titan Badge (dragon)",
+                    "sprite": "./img/badges/paldea-dragon.png"
+                },
+                {
+                    "name": "Star Badge (dark)",
+                    "sprite": "./img/badges/paldea-dark.png"
+                },
+                {
+                    "name": "Star Badge (fire)",
+                    "sprite": "./img/badges/paldea-fire.png"
+                },
+                {
+                    "name": "Star Badge (poison)",
+                    "sprite": "./img/badges/paldea-poison.png"
+                },
+                {
+                    "name": "Star Badge (fairy)",
+                    "sprite": "./img/badges/paldea-fairy.png"
+                },
+                {
+                    "name": "Star Badge (fighting)",
+                    "sprite": "./img/badges/paldea-fighting.png"
+                }
+            ],
+            "badgesNote": "Oito insígnias de ginásios, cinco de Titãs e cinco da Team Star."
+        },
+        {
+            "name": "Nemona",
+            "sprite": "./img/trainers/bulbapedia/Nemona.png",
+            "pokedex": 700,
+            "id": "00045",
+            "originGames": [
+                "scarlet",
+                "violet"
+            ],
+            "gameGroup": "paldea",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Bug Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-bug.png"
+                },
+                {
+                    "name": "Grass Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-grass.png"
+                },
+                {
+                    "name": "Electric Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-electric.png"
+                },
+                {
+                    "name": "Water Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-water.png"
+                },
+                {
+                    "name": "Normal Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-normal.png"
+                },
+                {
+                    "name": "Ghost Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ghost.png"
+                },
+                {
+                    "name": "Psychic Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-psychic.png"
+                },
+                {
+                    "name": "Ice Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ice.png"
+                },
+                {
+                    "name": "Titan Badge (rock)",
+                    "sprite": "./img/badges/paldea-rock.png"
+                },
+                {
+                    "name": "Titan Badge (flying)",
+                    "sprite": "./img/badges/paldea-flying.png"
+                },
+                {
+                    "name": "Titan Badge (steel)",
+                    "sprite": "./img/badges/paldea-steel.png"
+                },
+                {
+                    "name": "Titan Badge (ground)",
+                    "sprite": "./img/badges/paldea-ground.png"
+                },
+                {
+                    "name": "Titan Badge (dragon)",
+                    "sprite": "./img/badges/paldea-dragon.png"
+                },
+                {
+                    "name": "Star Badge (dark)",
+                    "sprite": "./img/badges/paldea-dark.png"
+                },
+                {
+                    "name": "Star Badge (fire)",
+                    "sprite": "./img/badges/paldea-fire.png"
+                },
+                {
+                    "name": "Star Badge (poison)",
+                    "sprite": "./img/badges/paldea-poison.png"
+                },
+                {
+                    "name": "Star Badge (fairy)",
+                    "sprite": "./img/badges/paldea-fairy.png"
+                },
+                {
+                    "name": "Star Badge (fighting)",
+                    "sprite": "./img/badges/paldea-fighting.png"
+                }
+            ],
+            "badgesNote": "Oito insígnias de ginásios, cinco de Titãs e cinco da Team Star."
+        },
+        {
+            "name": "Arven",
+            "sprite": "./img/trainers/bulbapedia/Arven.png",
+            "pokedex": 700,
+            "id": "00046",
+            "originGames": [
+                "scarlet",
+                "violet"
+            ],
+            "gameGroup": "paldea",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Bug Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-bug.png"
+                },
+                {
+                    "name": "Grass Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-grass.png"
+                },
+                {
+                    "name": "Electric Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-electric.png"
+                },
+                {
+                    "name": "Water Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-water.png"
+                },
+                {
+                    "name": "Normal Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-normal.png"
+                },
+                {
+                    "name": "Ghost Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ghost.png"
+                },
+                {
+                    "name": "Psychic Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-psychic.png"
+                },
+                {
+                    "name": "Ice Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ice.png"
+                },
+                {
+                    "name": "Titan Badge (rock)",
+                    "sprite": "./img/badges/paldea-rock.png"
+                },
+                {
+                    "name": "Titan Badge (flying)",
+                    "sprite": "./img/badges/paldea-flying.png"
+                },
+                {
+                    "name": "Titan Badge (steel)",
+                    "sprite": "./img/badges/paldea-steel.png"
+                },
+                {
+                    "name": "Titan Badge (ground)",
+                    "sprite": "./img/badges/paldea-ground.png"
+                },
+                {
+                    "name": "Titan Badge (dragon)",
+                    "sprite": "./img/badges/paldea-dragon.png"
+                },
+                {
+                    "name": "Star Badge (dark)",
+                    "sprite": "./img/badges/paldea-dark.png"
+                },
+                {
+                    "name": "Star Badge (fire)",
+                    "sprite": "./img/badges/paldea-fire.png"
+                },
+                {
+                    "name": "Star Badge (poison)",
+                    "sprite": "./img/badges/paldea-poison.png"
+                },
+                {
+                    "name": "Star Badge (fairy)",
+                    "sprite": "./img/badges/paldea-fairy.png"
+                },
+                {
+                    "name": "Star Badge (fighting)",
+                    "sprite": "./img/badges/paldea-fighting.png"
+                }
+            ],
+            "badgesNote": "Oito insígnias de ginásios, cinco de Titãs e cinco da Team Star."
+        },
+        {
+            "name": "Penny",
+            "sprite": "./img/trainers/bulbapedia/Penny.png",
+            "pokedex": 700,
+            "id": "00047",
+            "originGames": [
+                "scarlet",
+                "violet"
+            ],
+            "gameGroup": "paldea",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Bug Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-bug.png"
+                },
+                {
+                    "name": "Grass Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-grass.png"
+                },
+                {
+                    "name": "Electric Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-electric.png"
+                },
+                {
+                    "name": "Water Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-water.png"
+                },
+                {
+                    "name": "Normal Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-normal.png"
+                },
+                {
+                    "name": "Ghost Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ghost.png"
+                },
+                {
+                    "name": "Psychic Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-psychic.png"
+                },
+                {
+                    "name": "Ice Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ice.png"
+                },
+                {
+                    "name": "Titan Badge (rock)",
+                    "sprite": "./img/badges/paldea-rock.png"
+                },
+                {
+                    "name": "Titan Badge (flying)",
+                    "sprite": "./img/badges/paldea-flying.png"
+                },
+                {
+                    "name": "Titan Badge (steel)",
+                    "sprite": "./img/badges/paldea-steel.png"
+                },
+                {
+                    "name": "Titan Badge (ground)",
+                    "sprite": "./img/badges/paldea-ground.png"
+                },
+                {
+                    "name": "Titan Badge (dragon)",
+                    "sprite": "./img/badges/paldea-dragon.png"
+                },
+                {
+                    "name": "Star Badge (dark)",
+                    "sprite": "./img/badges/paldea-dark.png"
+                },
+                {
+                    "name": "Star Badge (fire)",
+                    "sprite": "./img/badges/paldea-fire.png"
+                },
+                {
+                    "name": "Star Badge (poison)",
+                    "sprite": "./img/badges/paldea-poison.png"
+                },
+                {
+                    "name": "Star Badge (fairy)",
+                    "sprite": "./img/badges/paldea-fairy.png"
+                },
+                {
+                    "name": "Star Badge (fighting)",
+                    "sprite": "./img/badges/paldea-fighting.png"
+                }
+            ],
+            "badgesNote": "Oito insígnias de ginásios, cinco de Titãs e cinco da Team Star."
+        },
+        {
+            "name": "Carmine",
+            "sprite": "./img/trainers/bulbapedia/Carmine.png",
+            "pokedex": 700,
+            "id": "00048",
+            "originGames": [
+                "scarlet",
+                "violet"
+            ],
+            "gameGroup": "paldea",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Bug Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-bug.png"
+                },
+                {
+                    "name": "Grass Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-grass.png"
+                },
+                {
+                    "name": "Electric Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-electric.png"
+                },
+                {
+                    "name": "Water Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-water.png"
+                },
+                {
+                    "name": "Normal Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-normal.png"
+                },
+                {
+                    "name": "Ghost Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ghost.png"
+                },
+                {
+                    "name": "Psychic Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-psychic.png"
+                },
+                {
+                    "name": "Ice Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ice.png"
+                },
+                {
+                    "name": "Titan Badge (rock)",
+                    "sprite": "./img/badges/paldea-rock.png"
+                },
+                {
+                    "name": "Titan Badge (flying)",
+                    "sprite": "./img/badges/paldea-flying.png"
+                },
+                {
+                    "name": "Titan Badge (steel)",
+                    "sprite": "./img/badges/paldea-steel.png"
+                },
+                {
+                    "name": "Titan Badge (ground)",
+                    "sprite": "./img/badges/paldea-ground.png"
+                },
+                {
+                    "name": "Titan Badge (dragon)",
+                    "sprite": "./img/badges/paldea-dragon.png"
+                },
+                {
+                    "name": "Star Badge (dark)",
+                    "sprite": "./img/badges/paldea-dark.png"
+                },
+                {
+                    "name": "Star Badge (fire)",
+                    "sprite": "./img/badges/paldea-fire.png"
+                },
+                {
+                    "name": "Star Badge (poison)",
+                    "sprite": "./img/badges/paldea-poison.png"
+                },
+                {
+                    "name": "Star Badge (fairy)",
+                    "sprite": "./img/badges/paldea-fairy.png"
+                },
+                {
+                    "name": "Star Badge (fighting)",
+                    "sprite": "./img/badges/paldea-fighting.png"
+                }
+            ],
+            "badgesNote": "Oito insígnias de ginásios, cinco de Titãs e cinco da Team Star."
+        },
+        {
+            "name": "Kieran",
+            "sprite": "./img/trainers/bulbapedia/Kieran.png",
+            "pokedex": 700,
+            "id": "00049",
+            "originGames": [
+                "scarlet",
+                "violet"
+            ],
+            "gameGroup": "paldea",
+            "badgesLabel": "Insígnias",
+            "badges": [
+                {
+                    "name": "Bug Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-bug.png"
+                },
+                {
+                    "name": "Grass Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-grass.png"
+                },
+                {
+                    "name": "Electric Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-electric.png"
+                },
+                {
+                    "name": "Water Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-water.png"
+                },
+                {
+                    "name": "Normal Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-normal.png"
+                },
+                {
+                    "name": "Ghost Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ghost.png"
+                },
+                {
+                    "name": "Psychic Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-psychic.png"
+                },
+                {
+                    "name": "Ice Badge (Victory Road)",
+                    "sprite": "./img/badges/paldea-ice.png"
+                },
+                {
+                    "name": "Titan Badge (rock)",
+                    "sprite": "./img/badges/paldea-rock.png"
+                },
+                {
+                    "name": "Titan Badge (flying)",
+                    "sprite": "./img/badges/paldea-flying.png"
+                },
+                {
+                    "name": "Titan Badge (steel)",
+                    "sprite": "./img/badges/paldea-steel.png"
+                },
+                {
+                    "name": "Titan Badge (ground)",
+                    "sprite": "./img/badges/paldea-ground.png"
+                },
+                {
+                    "name": "Titan Badge (dragon)",
+                    "sprite": "./img/badges/paldea-dragon.png"
+                },
+                {
+                    "name": "Star Badge (dark)",
+                    "sprite": "./img/badges/paldea-dark.png"
+                },
+                {
+                    "name": "Star Badge (fire)",
+                    "sprite": "./img/badges/paldea-fire.png"
+                },
+                {
+                    "name": "Star Badge (poison)",
+                    "sprite": "./img/badges/paldea-poison.png"
+                },
+                {
+                    "name": "Star Badge (fairy)",
+                    "sprite": "./img/badges/paldea-fairy.png"
+                },
+                {
+                    "name": "Star Badge (fighting)",
+                    "sprite": "./img/badges/paldea-fighting.png"
+                }
+            ],
+            "badgesNote": "Oito insígnias de ginásios, cinco de Titãs e cinco da Team Star."
+        },
+        {
+            "name": "Paxton",
+            "sprite": "./img/trainers/bulbapedia/Paxton.png",
+            "pokedex": 364,
+            "id": "00050",
+            "originGames": [
+                "legends-za"
+            ],
+            "gameGroup": "lumiose",
+            "badgesLabel": "Classificação",
+            "badges": [
+                {
+                    "name": "Rank A (história principal)"
+                },
+                {
+                    "name": "Rank ∞ (pós-jogo)"
+                }
+            ],
+            "badgesNote": "Progressão do Z-A Royale e do Infinite Z-A Royale."
+        },
+        {
+            "name": "Harmony",
+            "sprite": "./img/trainers/bulbapedia/Harmony.png",
+            "pokedex": 364,
+            "id": "00051",
+            "originGames": [
+                "legends-za"
+            ],
+            "gameGroup": "lumiose",
+            "badgesLabel": "Classificação",
+            "badges": [
+                {
+                    "name": "Rank A (história principal)"
+                },
+                {
+                    "name": "Rank ∞ (pós-jogo)"
+                }
+            ],
+            "badgesNote": "Progressão do Z-A Royale e do Infinite Z-A Royale."
+        },
+        {
+            "name": "Urbain",
+            "sprite": "./img/trainers/bulbapedia/Urbain.png",
+            "pokedex": 364,
+            "id": "00052",
+            "originGames": [
+                "legends-za"
+            ],
+            "gameGroup": "lumiose",
+            "badgesLabel": "Classificação",
+            "badges": [
+                {
+                    "name": "Rank A (história principal)"
+                },
+                {
+                    "name": "Rank ∞ (pós-jogo)"
+                }
+            ],
+            "badgesNote": "Progressão do Z-A Royale e do Infinite Z-A Royale."
+        },
+        {
+            "name": "Taunie",
+            "sprite": "./img/trainers/bulbapedia/Taunie.png",
+            "pokedex": 364,
+            "id": "00053",
+            "originGames": [
+                "legends-za"
+            ],
+            "gameGroup": "lumiose",
+            "badgesLabel": "Classificação",
+            "badges": [
+                {
+                    "name": "Rank A (história principal)"
+                },
+                {
+                    "name": "Rank ∞ (pós-jogo)"
+                }
+            ],
+            "badgesNote": "Progressão do Z-A Royale e do Infinite Z-A Royale."
         }
-        
     ]
 }
